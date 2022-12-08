@@ -23,7 +23,7 @@
             },
             {
                 "type": "Link",
-                "label": "AdProject",
+                "label": "Project",
                 "url": "/blog",
                 "altText": ""
             }
