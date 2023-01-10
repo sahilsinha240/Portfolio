@@ -114,7 +114,7 @@ sections:
     variant: variant-d
     actions:
       - type: Link
-        label: See all adventures
+        label: See all Projects
         altText: See all adventures
         url: /blog
         showIcon: true
