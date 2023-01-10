@@ -1,7 +1,7 @@
 ---
 title: Crypto Currency Price Prediction
 layout: PostLayout
-date: '2022-11-01'
+date: '2022-12-12'
 author: content/data/team/desmond-eagle.json
 featuredImage:
   type: ImageBlock
