@@ -63,7 +63,7 @@ sections:
       - type: Link
         altText: ''
         url: 'mailto:sahilsinha240@gmail.com'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         elementId: ''
