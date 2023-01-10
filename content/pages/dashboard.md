@@ -121,7 +121,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         elementId: ''
-        title: Item Title
+        title: Walmart Dashboard
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
