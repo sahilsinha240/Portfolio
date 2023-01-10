@@ -49,7 +49,7 @@ sections:
       - type: Link
         altText: ''
         url: 'https://github.com/sahilsinha240'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         elementId: ''
