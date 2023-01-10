@@ -4,8 +4,8 @@ layout: PostLayout
 date: '2021-11-12'
 author: content/data/team/desmond-eagle.json
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Home automation systems that use IoT tools to automate the light, fans,
+  televisions, and other household appliances.
 featuredImage:
   type: ImageBlock
   url: /images/smart-home-animate.svg
