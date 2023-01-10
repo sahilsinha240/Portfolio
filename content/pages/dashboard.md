@@ -8,7 +8,7 @@ metaTags: []
 title: Empty page
 sections:
   - type: FeaturedItemsSection
-    colors: colors-c
+    colors: colors-a
     elementId: ''
     title: Key value propositions
     subtitle: ''
