@@ -136,6 +136,7 @@ sections:
             iconPosition: right
             style: primary
             elementId: ''
+            label: Github
         styles:
           self:
             textAlign: left
