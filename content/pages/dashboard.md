@@ -230,7 +230,6 @@ sections:
 
         actions:
           - type: Button
-            label: Learn more
             showIcon: true
             icon: arrowRight
             url: /
