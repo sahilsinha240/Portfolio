@@ -55,15 +55,72 @@ bottomSections:
 addTitleSuffix: true
 title: Image to Cartoon Converter
 ---
+##### Source Code:- [Click Here](https://github.com/sahilsinha240/Image-to-Cartoon-using-Opencv)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+Computer Vision is one of the hottest fields in Artificial Intelligence with a wide variety of applications. OpenCV is the most popular library used in computer vision with a lot of interesting stuff. If you want to start your journey in computer vision you can start from learning OpenCV. It is easy to understand and implement by everyone. In this article using OpenCV, let’s have fun with converting normal images into cartoons.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+I will cover the following steps to convert the image to cartoon:-
 
-> “Fish come in three sizes: small, medium and the one that got away!”
+1.  Importing libraries
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+2.  Reading the input image
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+3.  Detecting edges in the image
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+4.  Converting into grayscale & applying the medium blur
+
+5.  Cartoonifying the image
+
+##### Converting Image to Cartoon Using OpenCV
+
+Now, let us proceed step-by-step.
+
+##### **Step-1: Reading the libraries**
+
+Here we are importing the required libraries. If you are working in Google Colab then we need to import google.colab.patches.
+
+\*\*#import required libraries
+\*\*
+
+##### **Step-2: Reading the image**
+
+In this step, we will read the image. We have download an image of MS Dhoni from Google Image and will try to perform our experiment on this image.
+
+**#reading image**
+
+As we can see that the input image read by OpenCV is being shown as a BGR (Blue-Green-Red) image so we need to convert it to the RGB (Red-Green-Blue).
+
+**#converting to RGB**
+
+##### **Step-3: Detecting edges**
+
+Here we are going to detect the edges in the image using adaptive thresholding methods.
+
+***#Detecting edges of the input image***\*\*
+gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
+gray = cv2.medianBlur(gray,5)
+edges =cv2.adaptiveThreshold(grey ,255,cv2.ADAPTIVE_THRESH_MEAN_C,cv2.THRESH_BINARY,9,9)
+io.imshow(edges)\*\*
+
+##### **Step-4: Cartoonifying image**
+
+In this step, we will be cartoonifying the image using bilateral filter method.
+
+***#Cartoonifying the image***\*\*
+color = cv2.bilateralFilter(img,9,250,250)
+cartoon = cv2.bitwise_and(color,color,mask=edges)\*\*
+
+##### **Step-5: Final Output (Cartoon Image)**
+
+Finally, we will visualize the final output
+
+**io.imshow(cartoon)**
+
+##### **The transformation from input to output**
+
+##### **Conclusion**
+
+In the above demonstration, we converted a normal image into a cartoon by implementing a few lines of code using computer vision techniques. we shall have great fun using computer vision techniques.
+
+
+
