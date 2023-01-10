@@ -55,7 +55,7 @@ sections:
             style: primary
             url: 'https://github.com/sahilsinha240/HR-Analysis-Dashboard'
           - type: Button
-            label: Learn more
+            label: Screenshot
             altText: ''
             url: >-
               https://drive.google.com/file/d/1ahSgbnO19f5m7aqyQ7vFBkyWGfc07zq3/view?usp=share_link
