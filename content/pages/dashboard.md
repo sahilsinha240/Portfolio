@@ -13,7 +13,7 @@ sections:
     title: Dashboard
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/bg.gif
         caption: Image one caption
     spacing: 16
     columns: 1
