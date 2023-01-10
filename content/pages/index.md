@@ -20,7 +20,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Welcome to my portfolio website!
-    subtitle: Fresh. Better. Faster.
+    subtitle: Python. Analytics. PowerBI. SQL.
     text: ''
     actions:
       - type: Button
