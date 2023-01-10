@@ -9,7 +9,6 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/smart-home-animate.svg
-  altText: Post Image
 media:
   type: ImageBlock
   url: /images/bg.webp
