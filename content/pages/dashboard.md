@@ -160,7 +160,7 @@ sections:
 
         actions:
           - type: Button
-            label: Learn more
+            label: Screenshot
             altText: ''
             url: >-
               https://drive.google.com/file/d/1b0gLfjpGrpZ4nxFiczidBiEDsGP1c-i2/view?usp=share_link
