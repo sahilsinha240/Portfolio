@@ -1,5 +1,5 @@
 ---
-title: Smart Home Automation
+title: Crypto Currency Price Prediction
 layout: PostLayout
 date: '2022-11-10'
 author: content/data/team/desmond-eagle.json
