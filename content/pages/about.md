@@ -59,7 +59,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Video Inroduction
+        label: Video Introduction
         altText: ''
         url: 'https://clipchamp.com/watch/0TM4tiscDCj'
         showIcon: false
