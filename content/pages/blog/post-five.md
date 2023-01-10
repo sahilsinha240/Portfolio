@@ -1,7 +1,6 @@
 ---
 title: T20  World cup cricket data analytics
 layout: PostLayout
-author: content/data/team/hugh-saturation.json
 excerpt: Currently Working on it
 featuredImage:
   type: ImageBlock
