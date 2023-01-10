@@ -42,7 +42,7 @@ sections:
     subtitle: All files are available on Github
     items:
       - type: FeaturedItem
-        title: Faster
+        title: HR Analysis Dashboard
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
