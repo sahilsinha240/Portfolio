@@ -36,17 +36,6 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
-            },
-            {
-                "type": "Button",
-                "label": "Learn more",
-                "altText": "",
-                "url": "/Assignments",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": ""
             }
         ],
         "secondaryLinks": [
