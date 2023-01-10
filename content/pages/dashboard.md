@@ -10,7 +10,7 @@ sections:
   - type: MediaGallerySection
     colors: colors-a
     elementId: ''
-    title: Gallery
+    title: Dashboard
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
