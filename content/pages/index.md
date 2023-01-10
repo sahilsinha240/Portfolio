@@ -106,7 +106,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: FeaturedPostsSection
-    colors: colors-d
+    colors: colors-a
     elementId: ''
     showDate: true
     showAuthor: false
