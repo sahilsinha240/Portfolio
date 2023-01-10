@@ -146,6 +146,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
+            label: sho
         styles:
           self:
             textAlign: left
