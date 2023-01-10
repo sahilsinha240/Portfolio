@@ -80,7 +80,7 @@ sections:
       altText: Hero image
     backgroundImage:
       type: BackgroundImage
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/layered-steps-haikei (1).svg
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
