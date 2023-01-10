@@ -13,7 +13,7 @@ featuredImage:
   url: /images/0_Akql8a3a_INHYMIa.gif
 media:
   type: ImageBlock
-  url: /images/post-3.jpg
+  url: /images/0_Akql8a3a_INHYMIa.gif
   altText: Post Image
 bottomSections:
   - elementId: ''
