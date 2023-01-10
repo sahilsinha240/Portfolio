@@ -149,7 +149,7 @@ sections:
     actions:
       - type: Link
         label: See all Dashboard
-        url: 'https://www.stackbit.com/'
+        url: /dashboard
         showIcon: true
         icon: arrowRight
     backgroundImage:
