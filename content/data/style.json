@@ -45,7 +45,7 @@
     },
     "fontBody": "fontSecondary",
     "main": "#dbdbbe",
-    "light": "#ffffff",
+    "light": "#ccd1c3",
     "onLight": "#000000",
     "dark": "#333333",
     "onDark": "#ffffff",
