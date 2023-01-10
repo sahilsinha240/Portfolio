@@ -68,7 +68,6 @@ sections:
         iconPosition: right
         elementId: ''
       - type: Link
-        label: Learn more
         altText: ''
         url: 'https://join.skype.com/invite/u0j9wRyacBQg'
         showIcon: false
