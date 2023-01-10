@@ -146,7 +146,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
-            label: sho
+            label: Screenshot
         styles:
           self:
             textAlign: left
