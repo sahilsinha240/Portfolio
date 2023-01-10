@@ -7,7 +7,6 @@ excerpt: 'With the OpenCV software suite, converts the MS Dhoni image to a carto
 featuredImage:
   type: ImageBlock
   url: /images/CSK-MS-Dhoni-Caricature.jpg
-  altText: Post thumbnail image
 media:
   type: ImageBlock
   url: /images/post-1.jpg
