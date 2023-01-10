@@ -42,6 +42,17 @@
         "secondaryLinks": [
             {
                 "type": "Button",
+                "label": "Learn more",
+                "altText": "",
+                "url": "https://wa.me/919128689082",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Button",
                 "label": "Contact us",
                 "url": "mailto:info@lorem.mail",
                 "altText": "Contact us",
