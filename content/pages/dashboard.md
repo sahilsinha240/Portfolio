@@ -21,10 +21,6 @@ sections:
         url: /images/gallery-3.jpg
         altText: Image three
         caption: Image three caption
-      - type: ImageBlock
-        url: /images/gallery-4.jpg
-        altText: Image four
-        caption: Image four caption
     spacing: 16
     columns: 1
     aspectRatio: '16:9'
