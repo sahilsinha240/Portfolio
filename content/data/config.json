@@ -108,7 +108,8 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "icon": "linkedin"
+                "icon": "linkedin",
+                "url": "https://www.linkedin.com/in/sahil-sinha-432773185"
             },
             {
                 "type": "Social",
