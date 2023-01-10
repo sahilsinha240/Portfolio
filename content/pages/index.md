@@ -40,7 +40,6 @@ sections:
         style: primary
         elementId: ''
       - type: Link
-        label: Learn more
         altText: ''
         url: 'https://www.linkedin.com/in/sahil-sinha-432773185'
         showIcon: false
