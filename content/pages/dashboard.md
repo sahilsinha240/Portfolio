@@ -38,7 +38,7 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-a
     elementId: ''
-    title: Key value propositions
+    title: PowerBI Dashboard
     subtitle: All files are available on Github
     items:
       - type: FeaturedItem
