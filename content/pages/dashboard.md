@@ -232,7 +232,6 @@ sections:
           - type: Button
             showIcon: true
             icon: arrowRight
-            url: /
             style: primary
             label: Github
           - type: Button
