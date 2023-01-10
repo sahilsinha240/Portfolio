@@ -71,7 +71,7 @@ sections:
         altText: ''
         url: 'https://join.skype.com/invite/u0j9wRyacBQg'
         showIcon: true
-        icon: arrowRight
+        icon: playCircle
         iconPosition: right
         elementId: ''
     media:
