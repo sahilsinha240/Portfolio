@@ -8,7 +8,7 @@ featuredImage:
   url: /images/cricket.gif
 media:
   type: ImageBlock
-  url: /images/hero.webp
+  url: /images/cricket.gif
   altText: Post Image
 bottomSections:
   - elementId: ''
