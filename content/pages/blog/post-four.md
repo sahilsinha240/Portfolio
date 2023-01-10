@@ -3,7 +3,6 @@ title: Sentiment Analysis
 layout: PostLayout
 date: '2023-01-30'
 colors: colors-c
-author: content/data/team/hilary-ouse.json
 excerpt: >-
   I evaluate the customer sentiment analysis using the Amazon Food dataset in a
   Jupyter notebook with the help of the Python Visualization Package and natural
