@@ -14,7 +14,6 @@ sections:
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
-        altText: Image one
         caption: Image one caption
     spacing: 16
     columns: 1
