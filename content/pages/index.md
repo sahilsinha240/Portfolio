@@ -61,7 +61,6 @@ sections:
         iconPosition: right
         elementId: ''
       - type: Link
-        label: Learn more
         altText: ''
         url: 'mailto:sahilsinha240@gmail.com'
         showIcon: false
