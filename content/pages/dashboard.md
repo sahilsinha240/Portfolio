@@ -105,6 +105,7 @@ sections:
             showIcon: true
             icon: arrowRight
             style: primary
+            url: 'https://github.com/sahilsinha240/Enrollee-detail-dashboard'
         styles:
           self:
             textAlign: left
