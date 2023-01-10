@@ -1,7 +1,7 @@
 ---
 title: Sentiment Analysis
 layout: PostLayout
-date: '0020-01-30'
+date: '2023-01-30'
 colors: colors-c
 author: content/data/team/hilary-ouse.json
 excerpt: >-
