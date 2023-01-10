@@ -80,6 +80,16 @@ sections:
             icon: arrowRight
             style: primary
             url: 'https://github.com/sahilsinha240/Chicago-Crime-Dashboard'
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: >-
+              https://drive.google.com/file/d/1Ox9_wZzk1j2So7foTa_NhFvZ06RbNE6M/view?usp=share_link
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         styles:
           self:
             textAlign: left
