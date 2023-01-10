@@ -11,7 +11,6 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/0_Akql8a3a_INHYMIa.gif
-  altText: Post Thumbnail Image
 media:
   type: ImageBlock
   url: /images/post-3.jpg
