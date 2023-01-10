@@ -81,7 +81,7 @@ sections:
             style: primary
             url: 'https://github.com/sahilsinha240/Chicago-Crime-Dashboard'
           - type: Button
-            label: Learn more
+            label: Screenshot
             altText: ''
             url: >-
               https://drive.google.com/file/d/1Ox9_wZzk1j2So7foTa_NhFvZ06RbNE6M/view?usp=share_link
