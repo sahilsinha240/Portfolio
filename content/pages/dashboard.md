@@ -137,6 +137,16 @@ sections:
             style: primary
             elementId: ''
             label: Github
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: >-
+              https://drive.google.com/file/d/1ooVL1dxrJKwJ49KnBr7GMJVVmgDUu6g_/view?usp=share_link
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         styles:
           self:
             textAlign: left
