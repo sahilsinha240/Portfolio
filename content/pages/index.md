@@ -220,8 +220,6 @@ sections:
 
       *   Problem Solving
 
-      *   Time Management
-
     styles:
       self:
         height: auto
