@@ -16,7 +16,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: FeaturedPeopleSection
-    colors: colors-d
+    colors: colors-c
     elementId: ''
     variant: variant-c
     title: About Me
