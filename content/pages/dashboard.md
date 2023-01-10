@@ -17,7 +17,7 @@ sections:
     spacing: 16
     columns: 1
     aspectRatio: '16:9'
-    showCaption: true
+    showCaption: false
     enableHover: false
     styles:
       self:
