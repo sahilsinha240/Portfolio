@@ -67,6 +67,14 @@ sections:
         icon: mail
         iconPosition: right
         elementId: ''
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: 'https://join.skype.com/invite/u0j9wRyacBQg'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/Homepic.jpg
