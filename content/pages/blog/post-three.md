@@ -11,7 +11,7 @@ featuredImage:
   url: /images/smart-home-animate.svg
 media:
   type: ImageBlock
-  url: /images/bg.webp
+  url: /images/smart-home-animate.svg
   altText: Post Image
 bottomSections:
   - elementId: ''
