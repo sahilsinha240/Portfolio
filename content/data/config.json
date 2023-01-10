@@ -103,7 +103,7 @@
             {
                 "type": "Link",
                 "label": "Contact us",
-                "url": "/d",
+                "url": "/dashboard",
                 "altText": ""
             }
         ],
