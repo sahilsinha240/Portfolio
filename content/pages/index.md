@@ -141,6 +141,7 @@ sections:
       - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md
       - content/pages/blog/post-one.md
+    readMoreLinkLabel: Kn
   - type: FeatureHighlightSection
     colors: colors-d
     backgroundSize: full
