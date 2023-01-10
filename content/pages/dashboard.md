@@ -224,10 +224,10 @@ sections:
     items:
       - type: FeaturedItem
         title: Ecommerce Sale Dashboard
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          In this Tableau dashboard I analyzes the Ecommerce Sales details and
+          also learns about Tableau with the help of YouTube.
+
         actions:
           - type: Button
             label: Learn more
