@@ -43,10 +43,10 @@ sections:
     items:
       - type: FeaturedItem
         title: HR Analysis Dashboard
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          In this Powerbi dashboard I analyzes the company's HR details and also
+          learns about Powerbi with the help of YouTube.
+
         actions:
           - type: Button
             label: Learn more
