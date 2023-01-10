@@ -258,7 +258,7 @@ sections:
         actions:
           - type: Button
             label: Github
-            showIcon: true
+            showIcon: false
             icon: arrowRight
             url: /
             style: primary
