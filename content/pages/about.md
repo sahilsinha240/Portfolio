@@ -20,7 +20,6 @@ sections:
     elementId: ''
     variant: variant-c
     title: About Me
-    subtitle: Featured people section example
     actions: []
     people:
       - content/data/team/desmond-eagle.json
