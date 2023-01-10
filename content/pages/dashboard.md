@@ -176,10 +176,10 @@ sections:
         elementId: ''
         title: Gaya Report Dashboard
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          In this assignment, I've used a government dataset to visualize a
+          vehicle detail dashboard.
+
         actions: []
         styles:
           self:
