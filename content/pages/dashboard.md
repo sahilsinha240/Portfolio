@@ -101,7 +101,7 @@ sections:
 
         actions:
           - type: Button
-            label: Learn more
+            label: Github
             showIcon: true
             icon: arrowRight
             style: primary
