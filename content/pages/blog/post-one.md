@@ -9,7 +9,7 @@ featuredImage:
   url: /images/CSK-MS-Dhoni-Caricature.jpg
 media:
   type: ImageBlock
-  url: /images/post-1.jpg
+  url: /images/CSK-MS-Dhoni-Caricature.jpg
   altText: Post Image
 bottomSections:
   - elementId: ''
