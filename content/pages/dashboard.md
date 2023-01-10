@@ -127,7 +127,16 @@ sections:
           In this assignment, I've visualized a detailed Walmart dashboard using
           the Jobaaj dataset.
 
-        actions: []
+        actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: 'https://github.com/sahilsinha240/Walmart-dashboard'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         styles:
           self:
             textAlign: left
