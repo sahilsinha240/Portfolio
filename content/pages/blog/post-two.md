@@ -3,9 +3,6 @@ title: Smart Home Automation
 layout: PostLayout
 date: '2022-11-10'
 author: content/data/team/desmond-eagle.json
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
 featuredImage:
   type: ImageBlock
   url: /images/post-2.jpg
