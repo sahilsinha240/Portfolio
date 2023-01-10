@@ -320,5 +320,5 @@ sections:
         borderStyle: solid
 addTitleSuffix: true
 metaTags: []
-title: Sahil_Sinha
+title: Sahil Sinha
 ---
