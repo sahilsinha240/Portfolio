@@ -53,6 +53,14 @@ sections:
         icon: github
         iconPosition: right
         elementId: ''
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: 'https://t.me/+919128689082'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/Homepic.jpg
