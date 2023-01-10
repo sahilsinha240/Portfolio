@@ -148,7 +148,7 @@ sections:
     title: Visualize Dashboard
     actions:
       - type: Link
-        label: See all Dashboard
+        label: See all Dashboards
         url: /dashboard
         showIcon: true
         icon: arrowRight
