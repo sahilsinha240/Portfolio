@@ -60,6 +60,14 @@ sections:
         icon: send
         iconPosition: right
         elementId: ''
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: 'mailto:sahilsinha240@gmail.com'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/Homepic.jpg
