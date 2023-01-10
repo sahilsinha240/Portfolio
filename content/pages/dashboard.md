@@ -107,7 +107,7 @@ sections:
             style: primary
             url: 'https://github.com/sahilsinha240/Enrollee-detail-dashboard'
           - type: Button
-            label: Learn more
+            label: Screenshot
             altText: ''
             url: >-
               https://drive.google.com/file/d/1b-fDvIE4Cdu7Dtt-tVpUD1PP6khq9Z0X/view?usp=share_link
