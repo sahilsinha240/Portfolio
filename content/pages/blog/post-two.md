@@ -1,7 +1,7 @@
 ---
 title: Smart Home Automation
 layout: PostLayout
-date: '0202-11-10'
+date: '2022-11-10'
 author: content/data/team/desmond-eagle.json
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
