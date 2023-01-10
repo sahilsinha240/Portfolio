@@ -182,7 +182,7 @@ sections:
 
         actions:
           - type: Button
-            label: Learn more
+            label: Screenshot
             altText: ''
             url: >-
               https://drive.google.com/file/d/1rfuK6u_sgiKchpIxvjT_Ho45vhZ6HEDa/view?usp=share_link
