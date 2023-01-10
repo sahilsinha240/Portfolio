@@ -5,7 +5,7 @@ author: content/data/team/hugh-saturation.json
 excerpt: Currently Working on it
 featuredImage:
   type: ImageBlock
-  url: /images/hero.webp
+  url: /images/cricket.gif
   altText: Post Image
 media:
   type: ImageBlock
