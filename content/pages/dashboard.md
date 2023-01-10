@@ -39,7 +39,7 @@ sections:
     colors: colors-a
     elementId: ''
     title: Key value propositions
-    subtitle: ''
+    subtitle: All files are available on Github
     items:
       - type: FeaturedItem
         title: Faster
