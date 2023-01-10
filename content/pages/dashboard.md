@@ -95,10 +95,10 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Enrollee Detail Dashboard
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          In this Powerbi dashboard, I completed the assignment that I received
+          from PaperPedia and visualized enrollee registration dataset.
+
         actions:
           - type: Button
             label: Learn more
