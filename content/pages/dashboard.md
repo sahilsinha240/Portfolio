@@ -236,7 +236,6 @@ sections:
             url: /
             style: primary
           - type: Button
-            label: Learn more
             altText: ''
             url: >-
               https://drive.google.com/file/d/1eJ20plJJHMChjLAy3f4vq_NAvAQJf6Nf/view?usp=share_link
