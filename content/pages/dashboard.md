@@ -234,6 +234,7 @@ sections:
             icon: arrowRight
             url: /
             style: primary
+            label: Github
           - type: Button
             altText: ''
             url: >-
