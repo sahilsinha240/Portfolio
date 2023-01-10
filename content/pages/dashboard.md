@@ -30,7 +30,7 @@ sections:
         altText: Image four
         caption: Image four caption
     spacing: 16
-    columns: 3
+    columns: 1
     aspectRatio: '16:9'
     showCaption: true
     enableHover: false
