@@ -18,10 +18,6 @@ sections:
         altText: Image one
         caption: Image one caption
       - type: ImageBlock
-        url: /images/gallery-2.jpg
-        altText: Image two
-        caption: Image two caption
-      - type: ImageBlock
         url: /images/gallery-3.jpg
         altText: Image three
         caption: Image three caption
