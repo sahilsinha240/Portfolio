@@ -79,6 +79,7 @@ sections:
             showIcon: true
             icon: arrowRight
             style: primary
+            url: 'https://github.com/sahilsinha240/Chicago-Crime-Dashboard'
         styles:
           self:
             textAlign: left
