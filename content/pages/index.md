@@ -111,7 +111,6 @@ sections:
     showAuthor: false
     showExcerpt: false
     showReadMoreLink: true
-    readMoreLinkLabel: Join adventure
     variant: variant-d
     actions:
       - type: Link
