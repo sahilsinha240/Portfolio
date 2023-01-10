@@ -260,7 +260,6 @@ sections:
             label: Github
             showIcon: false
             icon: arrowRight
-            url: /
             style: primary
           - type: Button
             label: Screenshot
