@@ -1,5 +1,4 @@
 ---
-title: Deep Sea Fishing
 layout: PostLayout
 date: '2001-05-29'
 author: content/data/team/dianne-ameter.json
