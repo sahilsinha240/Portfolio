@@ -2,7 +2,6 @@
 title: Smart Home Automation
 layout: PostLayout
 date: '2022-11-12'
-author: content/data/team/desmond-eagle.json
 excerpt: >-
   Home automation systems that use IoT tools to automate the light, fans,
   televisions, and other household appliances.
