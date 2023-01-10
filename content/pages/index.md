@@ -194,6 +194,8 @@ sections:
 
       *   Analytics
 
+      *   HTML
+
       #### **Tool Skills**
 
       *   Numpy
@@ -219,8 +221,6 @@ sections:
       *   Problem Solving
 
       *   Time Management
-
-
 
     styles:
       self:
