@@ -257,7 +257,7 @@ sections:
 
         actions:
           - type: Button
-            label: Learn more
+            label: Githu
             showIcon: true
             icon: arrowRight
             url: /
