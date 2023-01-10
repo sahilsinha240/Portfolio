@@ -102,7 +102,7 @@ sections:
         actions:
           - type: Button
             label: Github
-            showIcon: true
+            showIcon: false
             icon: arrowRight
             style: primary
             url: 'https://github.com/sahilsinha240/Enrollee-detail-dashboard'
