@@ -102,7 +102,7 @@
             },
             {
                 "type": "Link",
-                "label": "Contact us",
+                "label": "Dashboard",
                 "url": "/dashboard",
                 "altText": ""
             }
