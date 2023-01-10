@@ -8,7 +8,7 @@ metaTags: []
 title: Empty page
 sections:
   - type: MediaGallerySection
-    colors: colors-d
+    colors: colors-a
     elementId: ''
     title: Gallery
     subtitle: This is the subtitle
