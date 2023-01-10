@@ -48,6 +48,16 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: >-
+          https://drive.google.com/file/d/1mQg5RIM7Q9SB0vb07eI3_5OV6Fitm832/view?usp=share_link
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     people:
       - content/data/team/desmond-eagle.json
       - content/data/team/hilary-ouse.json
