@@ -28,6 +28,8 @@ sections:
         showIcon: false
         icon: arrowRight
         style: primary
+        url: >-
+          https://drive.google.com/file/d/1mQg5RIM7Q9SB0vb07eI3_5OV6Fitm832/view?usp=share_link
     media:
       type: ImageBlock
       url: /images/Homepic.jpg
