@@ -59,13 +59,45 @@ media:
   url: /images/project3.gif
   elementId: ''
 ---
+#### Source Code:- [Click Here](https://github.com/sahilsinha240/CryptoCurrency-Price-Prediction)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+#### **Shiba Inu Coin Price Prediction with Machine Learning**
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Shiba Inu Coin is the reason for the recent drop in bitcoin prices. The price of  Shiba Inu coin is currently very cheap compared to bitcoin, but some financial experts, claiming that we will see a rise in the price of Shiba Inu Coin soon. In this project, I will walk you through the task of Shiba Inu Price Prediction with Machine Learning using Python.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+###### Shiba Inu Price Prediction
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+Predicting the price of a cryptocurrency is a regression problem in machine learning. Bitcoin is one of the most successful examples of cryptocurrency, but we recently saw a major drop in bitcoin prices due to shiba inu. Unlike bitcoin, shiba Inu coin is very cheap right now, but financial experts are predicting that we may see a major increase in shiba inu prices.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+There are many machine learning approaches that we can use for the task of Shiba Inu price prediction. You can train a machine learning model or you can also use an already available powerful model like the Facebook Prophet Model. But in the section below, I will be using the autots library in Python for the task of Shiba Inu coin price prediction with machine learning.
+
+###### Shiba Inu Price Prediction using Python
+
+To predict future Shiba Inu coin prices, you first need to get a dataset for this task. So the dataset for the Shiba Inu coin price are [here](https://github.com/sahilsinha240/CryptoCurrency-Price-Prediction/blob/main/SHIB-USD.csv)
+
+Now let’s get started with the task of Shiba Inu coin price prediction by importing the necessary Python libraries and the dataset.
+
+###### Import Important Libraries
+
+###### Data Collection
+
+###### Data Pre-processing
+
+In this dataset, the “close” column contains the values whose future values that we want to predict, so let’s have a closer look at the historical values of close prices of Shiba Inu coin
+
+###### Feature Selection
+
+Now I will be using the autots library in Python to train a machine learning model for predicting the future prices of Shiba Inu coin. If you have never used this library before then you can easily install it in your system by using the pip command
+
+###### pip install autots
+
+Now let’s train the Shiba Inu coin price prediction model and have a look at the future prices of Shiba Inu coin
+
+###### Training a machine learning model
+
+###### Summary
+
+There are many machine learning approaches that we can use for the task of predicting the future prices of Shiba Inu coin. In this project, I introduced you to how you can predict the future prices of Shiba Inu coin by using the autots library in Python. I hope you like on how to predict the future prices of  Shiba Inu coin with Machine Learning using Python.
+
+
+
