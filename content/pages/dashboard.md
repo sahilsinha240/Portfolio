@@ -53,6 +53,7 @@ sections:
             showIcon: true
             icon: arrowRight
             style: primary
+            url: 'https://github.com/sahilsinha240/HR-Analysis-Dashboard'
         styles:
           self:
             textAlign: left
