@@ -20,7 +20,16 @@ sections:
     elementId: ''
     variant: variant-c
     title: About Me
-    actions: []
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /blog
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     people:
       - content/data/team/desmond-eagle.json
       - content/data/team/hilary-ouse.json
