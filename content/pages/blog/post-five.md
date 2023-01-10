@@ -9,7 +9,6 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/cricket.gif
-  altText: Post Image
 bottomSections:
   - elementId: ''
     variant: variant-d
