@@ -234,6 +234,8 @@ sections:
             icon: arrowRight
             style: primary
             label: Github
+            url: >-
+              https://github.com/sahilsinha240/Ecommerce-Sales-Analysis-Dashboard
           - type: Button
             altText: ''
             url: >-
