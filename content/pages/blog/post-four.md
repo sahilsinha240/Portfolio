@@ -14,7 +14,6 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/0_Akql8a3a_INHYMIa.gif
-  altText: Post Image
 bottomSections:
   - elementId: ''
     variant: variant-d
