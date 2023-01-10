@@ -157,7 +157,7 @@ sections:
         icon: arrowRight
     backgroundImage:
       type: BackgroundImage
-      url: /images/hero-3.webp
+      url: /images/bg2.gif
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
