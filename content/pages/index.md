@@ -186,7 +186,43 @@ sections:
   - type: TextSection
     colors: colors-e
     variant: variant-a
-    text: '## [Follow us on Instagram](https://www.stackbit.com/)'
+    text: |+
+      #### **Technical Skills**
+
+      *   SQL
+
+      *   Python
+
+      *   Analytics
+
+      #### **Tool Skills**
+
+      *   Numpy
+
+      *   Pandas
+
+      *   Tableau
+
+      *   PowerBI
+
+      *   Matplotlip
+
+      #### **Soft Skill**
+
+      *   Team Work
+
+      *   Adaptability
+
+      *   Communication
+
+      *   Critical Thinking
+
+      *   Problem Solving
+
+      *   Time Management
+
+
+
     styles:
       self:
         height: auto
