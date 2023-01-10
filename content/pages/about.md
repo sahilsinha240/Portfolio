@@ -58,6 +58,15 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: 'https://clipchamp.com/watch/0TM4tiscDCj'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     people:
       - content/data/team/desmond-eagle.json
       - content/data/team/hilary-ouse.json
