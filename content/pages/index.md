@@ -31,7 +31,7 @@ sections:
         url: >-
           https://drive.google.com/file/d/1mQg5RIM7Q9SB0vb07eI3_5OV6Fitm832/view?usp=share_link
       - type: Button
-        label: Learn more
+        label: Projects
         altText: ''
         url: /blog
         showIcon: false
