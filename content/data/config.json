@@ -53,7 +53,7 @@
             {
                 "type": "Button",
                 "label": "Gmail",
-                "url": "mailto:info@lorem.mail",
+                "url": "mailto:sahilsinha",
                 "altText": "Contact us",
                 "style": "secondary",
                 "showIcon": true,
