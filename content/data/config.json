@@ -29,7 +29,7 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "Dashboard",
                 "altText": "",
                 "url": "/dashboard",
                 "showIcon": false,
