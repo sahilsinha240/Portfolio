@@ -2,9 +2,7 @@
 title: T20  World cup cricket data analytics
 layout: PostLayout
 author: content/data/team/hugh-saturation.json
-excerpt: >-
-  Knowing how to feed yourself in the wild is one of the greatest skills you
-  could ever have.
+excerpt: Currently Working on it
 featuredImage:
   type: ImageBlock
   url: /images/hero.webp
