@@ -10,7 +10,6 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/CSK-MS-Dhoni-Caricature.jpg
-  altText: Post Image
 bottomSections:
   - elementId: ''
     variant: variant-d
