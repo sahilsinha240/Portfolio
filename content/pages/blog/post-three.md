@@ -8,7 +8,7 @@ excerpt: >-
   condimentum dignissim justo vel faucibus.
 featuredImage:
   type: ImageBlock
-  url: /images/bg.webp
+  url: /images/smart-home-animate.svg
   altText: Post Image
 media:
   type: ImageBlock
