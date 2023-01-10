@@ -5,7 +5,6 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Empty page
 sections:
   - type: MediaGallerySection
     colors: colors-a
