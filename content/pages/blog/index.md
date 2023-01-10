@@ -21,6 +21,7 @@ postFeed:
 styles:
   title:
     textAlign: center
+    textDecoration: underline
 bottomSections:
   - type: TextSection
     colors: colors-d
