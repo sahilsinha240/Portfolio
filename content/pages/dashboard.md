@@ -275,5 +275,4 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    subtitle: All files are available on Github
 ---
