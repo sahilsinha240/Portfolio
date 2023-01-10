@@ -1,5 +1,5 @@
 ---
-title: Fishing from the coast
+title: Smart Home Automation
 layout: PostLayout
 date: '2021-11-03'
 author: content/data/team/desmond-eagle.json
