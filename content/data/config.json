@@ -115,6 +115,15 @@
             },
             {
                 "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://github.com/sahilsinha240",
+                "icon": "github",
+                "style": "link",
+                "elementId": ""
+            },
+            {
+                "type": "Social",
                 "altText": "Instagram",
                 "label": "Instagram",
                 "url": "https://www.instagram.com/sahil__sinha/",
