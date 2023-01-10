@@ -8,7 +8,7 @@ postFeed:
   showExcerpt: false
   showReadMoreLink: true
   variant: variant-c
-  colors: colors-d
+  colors: colors-a
   styles:
     self:
       width: narrow
