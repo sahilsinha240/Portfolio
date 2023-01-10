@@ -56,7 +56,7 @@ sections:
       - type: Link
         altText: ''
         url: 'https://t.me/+919128689082'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         elementId: ''
