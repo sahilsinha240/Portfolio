@@ -138,7 +138,6 @@ sections:
             elementId: ''
             label: Github
           - type: Button
-            label: Learn more
             altText: ''
             url: >-
               https://drive.google.com/file/d/1ooVL1dxrJKwJ49KnBr7GMJVVmgDUu6g_/view?usp=share_link
