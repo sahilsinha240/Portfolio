@@ -220,7 +220,7 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-a
     elementId: ''
-    title: Key value propositions
+    title: Tableau Dashboard
     subtitle: ''
     items:
       - type: FeaturedItem
