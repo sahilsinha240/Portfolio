@@ -30,6 +30,15 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: 'mailto:sahilsinha240@gmail.com'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     people:
       - content/data/team/desmond-eagle.json
       - content/data/team/hilary-ouse.json
