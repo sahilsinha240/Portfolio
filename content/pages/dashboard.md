@@ -244,6 +244,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
+            label: Screenshot
         styles:
           self:
             textAlign: left
