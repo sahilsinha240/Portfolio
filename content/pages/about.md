@@ -31,7 +31,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: Mail
         altText: ''
         url: 'mailto:sahilsinha240@gmail.com'
         showIcon: false
