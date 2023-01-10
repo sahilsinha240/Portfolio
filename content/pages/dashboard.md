@@ -108,7 +108,7 @@ sections:
         textAlign: center
         textDecoration: underline
       subtitle:
-        textAlign: left
+        textAlign: center
         fontStyle: italic
       actions:
         justifyContent: flex-start
