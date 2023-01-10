@@ -42,7 +42,7 @@ sections:
       - type: Link
         altText: ''
         url: 'https://www.linkedin.com/in/sahil-sinha-432773185'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         elementId: ''
