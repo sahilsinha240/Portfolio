@@ -42,7 +42,7 @@ sections:
       actions:
         justifyContent: center
   - type: TextSection
-    colors: colors-d
+    colors: colors-c
     variant: variant-a
     title: About our business
     text: >-
