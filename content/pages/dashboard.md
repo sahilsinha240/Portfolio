@@ -252,9 +252,8 @@ sections:
       - type: FeaturedItem
         title: Product Sale Dashboard
         text: >+
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+          In this Tableau Dashboard, I learned the Tableau and visualized
+          product sales by creating this Tableau dashboard.
 
         actions:
           - type: Button
