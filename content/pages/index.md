@@ -78,7 +78,13 @@ sections:
       type: ImageBlock
       url: /images/Homepic.jpg
       altText: Hero image
-    backgroundImage: null
+    backgroundImage:
+      type: BackgroundImage
+      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      backgroundSize: cover
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
     styles:
       self:
         height: auto
