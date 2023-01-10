@@ -261,6 +261,7 @@ sections:
             showIcon: false
             icon: arrowRight
             style: primary
+            url: 'https://github.com/sahilsinha240/sales-dashboard'
           - type: Button
             label: Screenshot
             altText: ''
