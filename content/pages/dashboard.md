@@ -221,7 +221,6 @@ sections:
     colors: colors-a
     elementId: ''
     title: Tableau Dashboard
-    subtitle: All files are available on Github
     items:
       - type: FeaturedItem
         title: Faster
