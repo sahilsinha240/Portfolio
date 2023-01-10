@@ -109,6 +109,7 @@ sections:
         textDecoration: underline
       subtitle:
         textAlign: left
+        fontStyle: italic
       actions:
         justifyContent: flex-start
   - type: FeaturedItemsSection
