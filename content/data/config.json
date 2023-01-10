@@ -44,7 +44,7 @@
                 "label": "Whatsapp",
                 "altText": "",
                 "url": "https://wa.me/919128689082",
-                "showIcon": false,
+                "showIcon": true,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
