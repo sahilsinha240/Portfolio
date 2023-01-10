@@ -108,7 +108,6 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "label": "Twitter",
                 "icon": "twitter"
             },
             {
