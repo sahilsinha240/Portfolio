@@ -57,7 +57,7 @@ sections:
         altText: ''
         url: 'https://t.me/+919128689082'
         showIcon: true
-        icon: arrowRight
+        icon: send
         iconPosition: right
         elementId: ''
     media:
