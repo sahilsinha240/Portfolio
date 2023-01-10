@@ -123,10 +123,10 @@ sections:
         elementId: ''
         title: Walmart Dashboard
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          In this assignment, I've visualized a detailed Walmart dashboard using
+          the Jobaaj dataset.
+
         actions: []
         styles:
           self:
