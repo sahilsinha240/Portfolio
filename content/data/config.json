@@ -28,6 +28,16 @@
                 "altText": ""
             },
             {
+                "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "/dashboard",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
                 "type": "Button",
                 "label": "Learn more",
                 "altText": "",
