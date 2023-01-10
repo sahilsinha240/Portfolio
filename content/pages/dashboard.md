@@ -230,7 +230,7 @@ sections:
 
         actions:
           - type: Button
-            showIcon: true
+            showIcon: false
             icon: arrowRight
             style: primary
             label: Github
