@@ -6,7 +6,6 @@ author: content/data/team/desmond-eagle.json
 featuredImage:
   type: ImageBlock
   url: /images/post-2.jpg
-  altText: Post Image
 bottomSections:
   - elementId: ''
     variant: variant-d
