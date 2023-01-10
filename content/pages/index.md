@@ -25,7 +25,7 @@ sections:
     actions:
       - type: Button
         label: Resume
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         style: primary
         url: /
