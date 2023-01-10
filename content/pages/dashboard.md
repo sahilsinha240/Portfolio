@@ -273,6 +273,7 @@ sections:
         textAlign: center
       subtitle:
         textAlign: left
+        fontStyle: italic
       actions:
         justifyContent: flex-start
     subtitle: All files are available on Github
