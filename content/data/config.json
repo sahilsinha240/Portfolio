@@ -108,7 +108,6 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
                 "label": "Twitter",
                 "icon": "twitter"
             },
