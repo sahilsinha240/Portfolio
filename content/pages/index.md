@@ -208,6 +208,8 @@ sections:
 
       *   Matplotlip
 
+      *   Wordpress
+
       #### **Soft Skill**
 
       *   Team Work
