@@ -105,7 +105,7 @@ sections:
           - pr-4
         justifyContent: center
       title:
-        textAlign: left
+        textAlign: center
         textDecoration: underline
       subtitle:
         textAlign: left
