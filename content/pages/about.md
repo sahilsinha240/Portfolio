@@ -22,7 +22,7 @@ sections:
     title: About Me
     actions:
       - type: Button
-        label: Learn more
+        label: Projects
         altText: ''
         url: /blog
         showIcon: false
