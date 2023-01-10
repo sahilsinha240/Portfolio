@@ -257,7 +257,7 @@ sections:
 
         actions:
           - type: Button
-            label: Githu
+            label: Github
             showIcon: true
             icon: arrowRight
             url: /
