@@ -113,7 +113,6 @@
             },
             {
                 "type": "Social",
-                "label": "Facebook",
                 "altText": "",
                 "url": "https://github.com/sahilsinha240",
                 "icon": "github",
