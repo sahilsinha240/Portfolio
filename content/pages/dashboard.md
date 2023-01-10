@@ -111,7 +111,7 @@ sections:
             altText: ''
             url: >-
               https://drive.google.com/file/d/1b-fDvIE4Cdu7Dtt-tVpUD1PP6khq9Z0X/view?usp=share_link
-            showIcon: true
+            showIcon: false
             icon: arrowRight
             iconPosition: right
             style: secondary
