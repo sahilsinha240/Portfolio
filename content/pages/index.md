@@ -50,7 +50,7 @@ sections:
         altText: ''
         url: 'https://github.com/sahilsinha240'
         showIcon: true
-        icon: arrowRight
+        icon: github
         iconPosition: right
         elementId: ''
     media:
