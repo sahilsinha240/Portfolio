@@ -34,7 +34,7 @@ sections:
         label: Learn more
         altText: ''
         url: /blog
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
