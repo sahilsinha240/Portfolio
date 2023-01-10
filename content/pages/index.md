@@ -70,7 +70,7 @@ sections:
       - type: Link
         altText: ''
         url: 'https://join.skype.com/invite/u0j9wRyacBQg'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         elementId: ''
