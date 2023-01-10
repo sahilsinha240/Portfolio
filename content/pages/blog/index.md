@@ -23,27 +23,6 @@ styles:
     textAlign: center
     textDecoration: underline
 bottomSections:
-  - type: TextSection
-    colors: colors-d
-    variant: variant-a
-    text: '## [Follow us on Instagram](https://www.stackbit.com/)'
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-28
-          - pb-20
-          - pr-4
-          - pl-4
-        justifyContent: center
-      text:
-        textAlign: center
   - colors: colors-d
     elementId: ''
     images:
