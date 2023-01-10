@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-date: '2001-05-29'
+date: '0002-05-29'
 author: content/data/team/dianne-ameter.json
 excerpt: 'With the OpenCV software suite, converts the MS Dhoni image to a cartoon.'
 featuredImage:
