@@ -151,7 +151,7 @@ sections:
       We’re local, seasonal fisherman, supporting fishing restrictions.
     actions:
       - type: Link
-        label: Join adventure
+        label: See all Dashboard
         url: 'https://www.stackbit.com/'
         showIcon: true
         icon: arrowRight
