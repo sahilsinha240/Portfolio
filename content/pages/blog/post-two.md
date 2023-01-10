@@ -57,7 +57,6 @@ excerpt: >-
 media:
   type: ImageBlock
   url: /images/project3.gif
-  caption: Caption of the image
   elementId: ''
 ---
 
