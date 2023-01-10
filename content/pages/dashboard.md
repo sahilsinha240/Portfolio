@@ -158,7 +158,17 @@ sections:
           In this Powerbi dashboard, I've visualized Shiba Inu prices for August
           2022 from the Kaggle dataset.
 
-        actions: []
+        actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: >-
+              https://drive.google.com/file/d/1b0gLfjpGrpZ4nxFiczidBiEDsGP1c-i2/view?usp=share_link
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         styles:
           self:
             textAlign: left
