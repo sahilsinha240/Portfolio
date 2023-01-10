@@ -147,8 +147,6 @@ sections:
     colors: colors-d
     backgroundSize: full
     title: Visualize Dashboard
-    text: |
-      We’re local, seasonal fisherman, supporting fishing restrictions.
     actions:
       - type: Link
         label: See all Dashboard
