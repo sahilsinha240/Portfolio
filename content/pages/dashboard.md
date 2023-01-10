@@ -52,7 +52,9 @@ sections:
             label: Learn more
             showIcon: true
             icon: arrowRight
-            url: /
+            url: >-
+              In this Powerbi dashboard I analyzes the company's HR details and
+              also learns about Powerbi with the help of YouTube.
             style: primary
         styles:
           self:
