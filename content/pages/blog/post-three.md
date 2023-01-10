@@ -12,7 +12,6 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/smart-home-animate.svg
-  altText: Post Image
 bottomSections:
   - elementId: ''
     variant: variant-d
