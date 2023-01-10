@@ -272,7 +272,7 @@ sections:
       title:
         textAlign: center
       subtitle:
-        textAlign: left
+        textAlign: center
         fontStyle: italic
       actions:
         justifyContent: flex-start
