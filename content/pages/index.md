@@ -28,7 +28,6 @@ sections:
         showIcon: false
         icon: arrowRight
         style: primary
-        url: /
     media:
       type: ImageBlock
       url: /images/Homepic.jpg
