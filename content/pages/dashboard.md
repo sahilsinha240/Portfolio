@@ -83,7 +83,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: FeaturedItemsSection
-    colors: colors-c
+    colors: colors-a
     elementId: ''
     title: Key value propositions
     subtitle: ''
