@@ -10,7 +10,7 @@ excerpt: >-
   language processing(NLP)........ Currently working on it!!!!!!!!!!
 featuredImage:
   type: ImageBlock
-  url: /images/post-3.jpg
+  url: /images/0_Akql8a3a_INHYMIa.gif
   altText: Post Thumbnail Image
 media:
   type: ImageBlock
