@@ -107,5 +107,4 @@ Lets look at some examples where the model scoring and review score differ the m
 
 #### Step 6:- The Transformers Pipeline
 
-Quick & easy way to run sentiment predictions.\<!---->
-
+Quick & easy way to run sentiment predictions.
