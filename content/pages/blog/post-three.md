@@ -69,23 +69,15 @@ smart home system, internet of things, cloud computing and rule-based event proc
 
 2.  The aforementioned research efforts focus on the Smart home features of context-awareness, energy efficiency, natural interaction, and user activity recognition.
 
-![](https://user-images.githubusercontent.com/70066441/205474527-1bb362a6-f69c-480d-88ed-00859088914b.jpg)
+
 
 Current lifestyles and technologies have inspired new ways to manage home appliances free of restrictions previously imposed by distance and time. So-called home automation technologies allow users to control and schedule common home tasks, often without human intervention. Several types of home automation systems have been proposed and classified show in diagram.smart-home main components and their inter-connectivity. On the left block, the smart home environment, we can see the typical devices connected to a local area network\[LAN]. This enables the communication among the devices and outside of it. Connected to the LAN is a server and its database. The server controls the devices, logs its activities, provides reports, answers queries and executes the appropriate commands. For more comprehensive or common tasks, the smart home server, transfers data to the cloud and remotely activate tasks in it using APIs, application programming interface processes. In addition, IoT home appliances are connected to the internet and to the LAN, and so expands smart home to include IoT. The connection to the internet allows the end user, resident, to communicate with the smart home to get current information and remotely activate tasks.
 
-![](https://user-images.githubusercontent.com/70066441/205474629-b08c4e00-441b-4a08-b798-41cb261e548a.jpg)
+
 
 A Data Flow Diagram (DFD) is a traditional way to visualize the information flows within a system. A neat and clear DFD can depict a good amount of the system requirements graphically show in figure\[4.2]. It can be manual, automated, or a combination of both.It shows how information enters and leaves the system, what changes the information and where information is stored. The purpose of a DFD is to show the scope and boundaries of a system as a whole. It may be used as a communications tool between a systems analyst and any person who plays a part in the system that acts as the starting point for redesigning a system.
 
 #### Project Output Image
 
-#### ![](https://user-images.githubusercontent.com/70066441/205474050-095cc2b1-b6d6-4683-9fe8-6db428a49b98.jpg)
-
 #### Project Input Image
-
-#### ![](https://user-images.githubusercontent.com/70066441/205474390-d4d0c0c3-3b8a-448e-bf40-debcc9cf0e5c.jpg)
-
-####
-
-
 
