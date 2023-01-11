@@ -99,7 +99,9 @@ Here we are going to detect the edges in the image using adaptive thresholding m
 ***#Detecting edges of the input image***\*\*
 gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 gray = cv2.medianBlur(gray,5)
-edges =cv2.adaptiveThreshold(grey ,255,cv2.ADAPTIVE_THRESH_MEAN_C,cv2.THRESH_BINARY,9,9)
+edges =cv2.adaptiveThreshold(grey ,255,cv2.ADAPTIVE_THRESH_MEAN_C,
+
+cv2.THRESH_BINARY,9,9)
 io.imshow(edges)\*\*
 
 ##### **Step-4: Cartoonifying image**
@@ -108,7 +110,9 @@ In this step, we will be cartoonifying the image using bilateral filter method.
 
 ***#Cartoonifying the image***\*\*
 color = cv2.bilateralFilter(img,9,250,250)
-cartoon = cv2.bitwise_and(color,color,mask=edges)\*\*
+cartoon = cv2.bitwise_and(color,color,
+
+mask=edges)\*\*
 
 ##### **Step-5: Final Output (Cartoon Image)**
 
@@ -121,6 +125,3 @@ Finally, we will visualize the final output
 ##### **Conclusion**
 
 In the above demonstration, we converted a normal image into a cartoon by implementing a few lines of code using computer vision techniques. we shall have great fun using computer vision techniques.
-
-
-
