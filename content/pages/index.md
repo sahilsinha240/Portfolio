@@ -28,7 +28,7 @@ sections:
         icon: arrowRight
         style: primary
         url: >-
-          https://drive.google.com/file/d/1mQg5RIM7Q9SB0vb07eI3_5OV6Fitm832/view?usp=share_link
+          https://drive.google.com/file/d/1DNQlny9XpDNxlTcOBbEglimdV3c8_S6x/view?usp=share_link
       - type: Button
         label: Projects
         altText: ''
