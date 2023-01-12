@@ -42,7 +42,6 @@ sections:
     items:
       - type: FeaturedItem
         elementId: ''
-        title: Item Title
         subtitle: ''
         text: >+
           In this Powerbi dashboard I analyzes the sales details of a US
