@@ -60,6 +60,16 @@ sections:
             iconPosition: right
             style: primary
             elementId: ''
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: >-
+              https://drive.google.com/file/d/1DXWtcgFmeq-w7Ps54vETB1cfjZj5V3Zw/view?usp=share_link
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         styles:
           self:
             textAlign: left
