@@ -41,6 +41,23 @@ sections:
     subtitle: All files are available on Github
     items:
       - type: FeaturedItem
+        elementId: ''
+        title: Item Title
+        subtitle: ''
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        featuredImage:
+          type: ImageBlock
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-image.png
+          altText: Item image
+        actions: []
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
         title: HR Analysis Dashboard
         text: >+
           In this Powerbi dashboard I analyzes the company's HR details and also
@@ -63,23 +80,6 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        elementId: ''
-        title: Item Title
-        subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
-          altText: Item image
-        actions: []
         styles:
           self:
             textAlign: left
