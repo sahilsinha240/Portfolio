@@ -44,10 +44,11 @@ sections:
         elementId: ''
         title: Item Title
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          #### In this Powerbi dashboard I analyzes the sales details of a US
+          superstore. Where Scatter plots, maps, tables, KPIs, and pie charts
+          are used here to analyze sales in terms of profit.
+
         actions: []
         styles:
           self:
