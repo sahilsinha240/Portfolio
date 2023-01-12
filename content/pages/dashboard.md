@@ -61,7 +61,7 @@ sections:
             style: primary
             elementId: ''
           - type: Button
-            label: Learn more
+            label: Screenshot
             altText: ''
             url: >-
               https://drive.google.com/file/d/1DXWtcgFmeq-w7Ps54vETB1cfjZj5V3Zw/view?usp=share_link
