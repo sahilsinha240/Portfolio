@@ -52,7 +52,7 @@ sections:
 
         actions:
           - type: Button
-            label: Learn more
+            label: Github
             altText: ''
             url: 'https://github.com/sahilsinha240/Superstore-Analysis-Dashboard'
             showIcon: false
