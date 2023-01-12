@@ -45,9 +45,11 @@ sections:
         title: Item Title
         subtitle: ''
         text: >+
-          #### In this Powerbi dashboard I analyzes the sales details of a US
+          In this Powerbi dashboard I analyzes the sales details of a US
           superstore. Where Scatter plots, maps, tables, KPIs, and pie charts
           are used here to analyze sales in terms of profit.
+
+
 
         actions: []
         styles:
