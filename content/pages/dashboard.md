@@ -54,6 +54,7 @@ sections:
         styles:
           self:
             textAlign: left
+        title: Superstore Analysis Dashboard
       - type: FeaturedItem
         title: HR Analysis Dashboard
         text: >+
