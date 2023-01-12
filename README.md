@@ -5,7 +5,7 @@
 
 This is a multi-page, production-ready project built with Next.js and Tailwind, equipped with visual editing capabilities using Stackbit. It uses markdown files as the content source. See below for [other Stackbit example projects](#other-stackbit-projects).
 
-**⚡ Demo:** [small-business-nextjs.stackbit.app](https://small-business-nextjs.stackbit.app/)
+https://blue-oak-21945.stackbit.app/
 
 ## Getting Started
 
