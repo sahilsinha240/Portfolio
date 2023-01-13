@@ -241,7 +241,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: INTERNSHIP
+        title: Internship
         text: |+
           ###### **Academic Writing Intern**
 
