@@ -309,6 +309,8 @@ sections:
         styles:
           self:
             textAlign: left
+          title:
+            textDecoration: underline
     actions: []
     columns: 1
     spacingX: 16
