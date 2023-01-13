@@ -176,6 +176,8 @@ sections:
         styles:
           self:
             textAlign: left
+          title:
+            fontWeight: 500
     actions:
       - type: Button
         altText: ''
