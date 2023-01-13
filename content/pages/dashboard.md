@@ -325,6 +325,7 @@ sections:
         justifyContent: center
       title:
         textAlign: left
+        fontWeight: 500
       subtitle:
         textAlign: center
         fontStyle: italic
