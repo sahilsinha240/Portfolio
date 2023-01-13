@@ -262,11 +262,6 @@ sections:
           Aug 2022-Sept 2022
           ```
 
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
-          altText: Item image
         actions: []
         styles:
           self:
