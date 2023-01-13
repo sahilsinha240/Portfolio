@@ -236,7 +236,7 @@ sections:
       text:
         textAlign: center
   - type: TextSection
-    colors: colors-d
+    colors: colors-c
     elementId: ''
     variant: variant-a
     subtitle: ''
