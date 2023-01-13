@@ -38,7 +38,7 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-a
     elementId: ''
-    title: Power
+    title: Powerbi
     items:
       - type: FeaturedItem
         elementId: ''
