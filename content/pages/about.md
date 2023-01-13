@@ -162,7 +162,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    title: M
+    title: Me
   - type: TextSection
     colors: colors-c
     variant: variant-a
