@@ -183,7 +183,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: TextSection
-    colors: colors-c
+    colors: colors-d
     variant: variant-a
     text: |+
       # Skills
