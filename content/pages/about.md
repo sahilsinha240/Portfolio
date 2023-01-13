@@ -108,7 +108,7 @@ sections:
           title:
             fontWeight: 500
       - type: FeaturedItem
-        title: Smarter
+        title: Why Should You Hire Me?
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
