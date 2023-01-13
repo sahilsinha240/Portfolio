@@ -1,7 +1,6 @@
 {
     "type": "Person",
     "image": {
-        "type": "ImageBlock",
-        "url": "/images/pro_pic.jpg"
+        "type": "ImageBlock"
     }
 }
