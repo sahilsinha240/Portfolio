@@ -136,7 +136,7 @@ sections:
         title: Weakness
       - type: FeaturedItem
         elementId: ''
-        title: Item Title
+        title: Skills
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
