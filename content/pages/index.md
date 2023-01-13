@@ -249,45 +249,69 @@ sections:
 
       ###### **Academic Writing Intern**
 
+      ```
       Paperpedia Pvt. Ltd
+      ```
 
+      ```
       Jan 2023-Present
+      ```
 
       ## **EDUCATION**
 
       ###### **B.Tech, Information Technology**
 
+      ```
       Veltech University
+      ```
 
+      ```
       2019-2023
+      ```
 
-      Grade:-8.09(Till 6th sem)
+      ```
+      Grade:-8.06(Till 6th sem)
+      ```
 
       ###### **Intermidiate**
 
+      ```
       Sri Chaitanya
+      ```
 
+      ```
       2017-2019
+      ```
 
+      ```
       Grade:-87.2%
+      ```
 
       ###### **SSC**
 
+      ```
       DAV Public School
+      ```
 
+      ```
       2005-2017
+      ```
 
+      ```
       Grade:-7.0
+      ```
 
       ## **Co Curriculam Activity**
 
       ###### **French Language & Tourism**
 
+      ```
       IHM Gaya
+      ```
 
+      ```
       July 2021-Sept 2021
-
-
+      ```
 
     styles:
       self:
