@@ -39,7 +39,6 @@ sections:
     colors: colors-a
     elementId: ''
     title: PowerBI Dashboard
-    subtitle: All files are available on Github
     items:
       - type: FeaturedItem
         elementId: ''
