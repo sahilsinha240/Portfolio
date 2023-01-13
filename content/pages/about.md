@@ -94,10 +94,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Faster
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: "Hi, I am Sahil Sinha and thanx for visit my portfolio website.\n\nSo, I am from Gaya, Bihar, currently taking up Bachelor's Degree in Information Technology from Veltech University Chennai, waiting for my degree in 2023.\n\nApart from that, I am working as a Academic Writing Intern at the Paperpedia pvt. ltd. where I am honing my skills in related fields.  I am also working on data analysis tools such as PowerBl and Tableau.\n\nOther than that, I have a HackerRank certification in Basic Python & SQL. Apart from that, I have excellent communication skills and am always willing to adapt to new technologies and skills.\n\nI have also completed projects such as cryptocurrency price prediction and smart homes using iot with cloud computing where I am a researcher and implements Python and machine learning\_modules.\n\nMy other hobbies are writing, exploring nature and enjoying\_the\_moment.\n\n"
         actions:
           - type: Button
             label: Learn more
