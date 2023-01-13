@@ -108,7 +108,7 @@ sections:
       elementId: ''
     backgroundImage:
       type: ImageBlock
-      url: /images/hero.webp
+      url: /images/bg.gif
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
