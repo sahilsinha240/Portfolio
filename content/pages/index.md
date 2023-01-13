@@ -183,7 +183,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: TextSection
-    colors: colors-c
+    colors: colors-d
     variant: variant-a
     text: |+
       # Skills
@@ -235,63 +235,95 @@ sections:
         justifyContent: center
       text:
         textAlign: center
-  - type: TextSection
-    colors: colors-d
+  - type: FeaturedItemsSection
+    colors: colors-c
     elementId: ''
-    variant: variant-a
     subtitle: ''
-    text: |+
-      ## **INTERNSHIP**
+    items:
+      - type: FeaturedItem
+        title: Internship
+        text: |+
+          ###### **Academic Writing Intern**
 
-      ###### **Academic Writing Intern**
+          ```
+          Paperpedia Pvt. Ltd
+          Jan 2023-Present
+          ```
 
-      ```
-      Paperpedia Pvt. Ltd
-      Jan 2023-Present
-      ```
 
-      ## **EDUCATION**
 
-      ###### **B.Tech, Information Technology**
+        actions: []
+        styles:
+          self:
+            textAlign: left
+          title:
+            fontWeight: 500
+            textDecoration: underline
+      - type: FeaturedItem
+        title: Education
+        text: |+
+          ###### **B.Tech, Information Technology**
 
-      ```
-      Veltech University
-      2019-2023
-      Grade:-8.06(Till 6th sem)
-      ```
+          ```
+          Veltech University
+          2019-2023
+          Grade:-8.06(Till 6th sem)
+          ```
 
-      ###### **Intermidiate**
+          ###### **Intermidiate**
 
-      ```
-      Sri Chaitanya
-      2017-2019
-      Grade:-87.2%
-      ```
+          ```
+          Sri Chaitanya
+          2017-2019
+          Grade:-87.2%
+          ```
 
-      ###### **SSC**
+          ###### **SSC**
 
-      ```
-      DAV Public School
-      2005-2017
-      Grade:-7.0
-      ```
+          ```
+          DAV Public School
+          2005-2017
+          Grade:-7.0
+          ```
 
-      ## **Co Curriculam Activity**
+        actions: []
+        styles:
+          self:
+            textAlign: left
+          title:
+            fontWeight: 500
+            textDecoration: underline
+      - type: FeaturedItem
+        title: Co Curricular Activity
+        text: |+
+          ###### **French Language & Tourism**
 
-      ###### **French Language & Tourism**
+          ```
+          IHM Gaya
+          July 2021-Sept 2021
+          ```
 
-      ```
-      IHM Gaya
-      July 2021-Sept 2021
-      ```
 
+
+        actions: []
+        styles:
+          self:
+            textAlign: left
+          title:
+            textDecoration: underline
+            fontWeight: 500
+    actions: []
+    columns: 1
+    spacingX: 16
+    spacingY: 16
+    enableHover: false
     styles:
       self:
         height: auto
         width: narrow
         padding:
           - pt-28
-          - pb-28
+          - pb-36
           - pl-4
           - pr-4
         justifyContent: center
@@ -299,21 +331,8 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-      text:
-        textAlign: left
-  - type: DividerSection
-    colors: colors-d
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-4
-          - pb-4
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
+      actions:
+        justifyContent: flex-start
 addTitleSuffix: true
 metaTags: []
 title: Sahil Sinha
