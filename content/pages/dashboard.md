@@ -29,6 +29,7 @@ sections:
       title:
         textAlign: center
         textDecoration: underline
+        fontWeight: 400
       subtitle:
         textAlign: center
   - type: FeaturedItemsSection
