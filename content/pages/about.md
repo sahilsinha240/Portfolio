@@ -91,7 +91,7 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: inset
-    title: We do fishing differently
+    title: About Me
     subtitle: Fresh. Better. Faster.
     text: ''
     actions:
