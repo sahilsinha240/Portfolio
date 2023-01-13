@@ -153,7 +153,7 @@ sections:
       - type: Button
         altText: ''
         url: 'mailto:sahilsinha240@gmail.com'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
