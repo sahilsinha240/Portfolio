@@ -238,7 +238,6 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-c
     elementId: ''
-    title: Key value propositions
     subtitle: ''
     items:
       - type: FeaturedItem
