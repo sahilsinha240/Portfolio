@@ -184,10 +184,15 @@ sections:
         elementId: ''
         title: Languages
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          *   English(Fluent)
+
+          *   Hindi(Native)
+
+          *   French(Beginner)
+
+          #### &#xA;&#xA;
+
         featuredImage:
           type: ImageBlock
           url: >-
