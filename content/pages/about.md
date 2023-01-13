@@ -87,51 +87,6 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-  - type: HeroSection
-    colors: colors-d
-    elementId: ''
-    backgroundSize: inset
-    title: About Me
-    text: ''
-    actions:
-      - type: Button
-        label: Join adventure
-        showIcon: true
-        icon: arrowRight
-        style: primary
-        url: /
-    media:
-      type: ImageBlock
-      url: /images/pro_pic.jpg
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
-    backgroundImage:
-      type: ImageBlock
-      url: /images/bg.gif
-      backgroundSize: cover
-      backgroundPosition: center
-      opacity: 100
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-96
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - type: TextSection
     colors: colors-c
     variant: variant-a
