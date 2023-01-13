@@ -138,10 +138,37 @@ sections:
         elementId: ''
         title: Skills
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          ##### **Technical Skills**
+
+          ```
+          SQL
+          Python
+          HTML
+          Analytics
+          ```
+
+          ##### **Tools/Package**
+
+          ```
+          Numpy
+          Pandas
+          PowerBI
+          Tableau
+          Matplotlip
+          Wordpress
+          ```
+
+          ##### **Soft Skill**
+
+          ```
+          Team Work
+          Adaptability
+          Communication
+          Critical Thinking
+          Problem Solving
+          ```
+
         featuredImage:
           type: ImageBlock
           url: >-
