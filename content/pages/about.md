@@ -140,7 +140,16 @@ sections:
         styles:
           self:
             textAlign: left
-    actions: []
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     columns: 1
     spacingX: 16
     spacingY: 16
