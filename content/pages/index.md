@@ -260,7 +260,7 @@ sections:
             fontWeight: 500
             textDecoration: underline
       - type: FeaturedItem
-        title: Smarter
+        title: EDUCATION
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
