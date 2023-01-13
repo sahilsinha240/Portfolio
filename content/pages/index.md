@@ -311,6 +311,7 @@ sections:
             textAlign: left
           title:
             textDecoration: underline
+            fontWeight: 500
     actions: []
     columns: 1
     spacingX: 16
