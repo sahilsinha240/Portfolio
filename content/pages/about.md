@@ -101,7 +101,7 @@ sections:
             icon: arrowRight
             url: /
             style: primary
-            label: V
+            label: Video Introduction
         styles:
           self:
             textAlign: left
