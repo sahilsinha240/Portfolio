@@ -144,7 +144,7 @@ sections:
       - type: Button
         label: Projects
         altText: ''
-        url: /
+        url: /blog
         showIcon: false
         icon: arrowRight
         iconPosition: right
