@@ -182,7 +182,7 @@ sections:
             fontWeight: 500
       - type: FeaturedItem
         elementId: ''
-        title: Item Title
+        title: Languages
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
