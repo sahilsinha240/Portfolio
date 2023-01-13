@@ -159,7 +159,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: Dashboard
         altText: ''
         url: /dashboard
         showIcon: false
