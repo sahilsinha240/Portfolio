@@ -99,7 +99,7 @@ sections:
           - type: Button
             showIcon: false
             icon: arrowRight
-            url: /
+            url: 'https://clipchamp.com/watch/0TM4tiscDCj'
             style: primary
             label: Video Introduction
         styles:
