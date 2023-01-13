@@ -184,15 +184,14 @@ sections:
         elementId: ''
         title: Languages
         subtitle: ''
-        text: |+
+        text: |
           *   English(Fluent)
 
           *   Hindi(Native)
 
           *   French(Beginner)
 
-          #### &#xA;&#xA;
-
+          ####
         actions: []
         styles:
           self:
