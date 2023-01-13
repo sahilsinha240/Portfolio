@@ -118,10 +118,7 @@ sections:
             fontWeight: 500
       - type: FeaturedItem
         title: Strength
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: "*   I am a self-motivated well-desciplined and interactive person.\n\n*   Apart from that, I also have excellent communication skills and am always willing to adapt new technologies and skills.\n    Other that than I have done several projects in machine learning, deep learning and artificial intelligence.\n\n*   As a data science professional, I can always work in statistics and analytics. Apart from that, I am good at data storytelling and critical\_thinking.\n\n\n\n"
         actions:
           - type: Button
             label: Learn more
