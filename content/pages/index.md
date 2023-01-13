@@ -261,10 +261,31 @@ sections:
             textDecoration: underline
       - type: FeaturedItem
         title: Education
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |+
+          ###### **B.Tech, Information Technology**
+
+          ```
+          Veltech University
+          2019-2023
+          Grade:-8.06(Till 6th sem)
+          ```
+
+          ###### **Intermidiate**
+
+          ```
+          Sri Chaitanya
+          2017-2019
+          Grade:-87.2%
+          ```
+
+          ###### **SSC**
+
+          ```
+          DAV Public School
+          2005-2017
+          Grade:-7.0
+          ```
+
         actions:
           - type: Button
             label: Learn more
