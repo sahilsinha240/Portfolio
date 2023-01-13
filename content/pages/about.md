@@ -142,7 +142,7 @@ sections:
             textAlign: left
     actions:
       - type: Button
-        label: Learn more
+        label: Projects
         altText: ''
         url: /
         showIcon: false
