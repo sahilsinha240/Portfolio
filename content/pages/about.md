@@ -101,6 +101,7 @@ sections:
             icon: arrowRight
             url: /
             style: primary
+            label: V
         styles:
           self:
             textAlign: left
