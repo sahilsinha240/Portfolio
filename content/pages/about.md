@@ -217,7 +217,7 @@ sections:
       - type: FeaturedItem
         elementId: ''
         subtitle: ''
-        text: |+
+        text: |
           **B.Tech, Information Technology**
 
           ```
@@ -245,9 +245,6 @@ sections:
           2005-2017
           Grade-7.0
           ```
-
-          #### &#xA;&#xA;
-
         actions: []
         styles:
           self:
