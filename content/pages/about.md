@@ -94,22 +94,6 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        elementId: ''
-        subtitle: ''
-        actions:
-          - type: Button
-            label: Learn more
-            altText: ''
-            url: /
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
         title: Faster
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
