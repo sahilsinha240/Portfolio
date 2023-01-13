@@ -217,10 +217,37 @@ sections:
       - type: FeaturedItem
         elementId: ''
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          **B.Tech, Information Technology**
+
+          ```
+          Veltech University
+          2019-2023
+          Grade-8.07 (Till 6 Semester)
+
+           
+          ```
+
+          **Intermidiate**
+
+          ```
+          Sri Chaitanya
+          2017-2019
+          Grade-87.2%
+
+           
+          ```
+
+          **SSC**
+
+          ```
+          DAV Public School
+          2005-2017
+          Grade-7.0
+          ```
+
+          #### &#xA;&#xA;
+
         featuredImage:
           type: ImageBlock
           url: >-
