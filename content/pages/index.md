@@ -186,6 +186,8 @@ sections:
     colors: colors-c
     variant: variant-a
     text: |+
+      # Skills
+
       #### **Technical Skills**
 
       ```
