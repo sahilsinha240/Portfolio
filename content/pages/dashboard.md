@@ -10,10 +10,7 @@ sections:
     colors: colors-a
     elementId: ''
     title: Dashboard
-    images:
-      - type: ImageBlock
-        url: /images/bg.gif
-        caption: Image one caption
+    images: []
     spacing: 16
     columns: 1
     aspectRatio: '16:9'
@@ -32,13 +29,16 @@ sections:
       title:
         textAlign: center
         textDecoration: underline
+        fontWeight: 500
       subtitle:
         textAlign: center
+        fontStyle: italic
+        fontWeight: 500
+    subtitle: All files are available on Github
   - type: FeaturedItemsSection
     colors: colors-a
     elementId: ''
-    title: PowerBI Dashboard
-    subtitle: All files are available on Github
+    title: Powerbi
     items:
       - type: FeaturedItem
         elementId: ''
@@ -243,8 +243,8 @@ sections:
           - pr-4
         justifyContent: center
       title:
-        textAlign: center
-        textDecoration: underline
+        textAlign: left
+        fontWeight: 500
       subtitle:
         textAlign: center
         fontStyle: italic
@@ -253,7 +253,7 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-a
     elementId: ''
-    title: Tableau Dashboard
+    title: Tableau
     items:
       - type: FeaturedItem
         title: Ecommerce Sale Dashboard
@@ -324,12 +324,12 @@ sections:
           - pr-4
         justifyContent: center
       title:
-        textAlign: center
+        textAlign: left
+        fontWeight: 500
       subtitle:
         textAlign: center
         fontStyle: italic
       actions:
         justifyContent: flex-start
-    subtitle: All files are available on Github
 title: Dashboad
 ---
