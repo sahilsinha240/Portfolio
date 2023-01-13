@@ -229,7 +229,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         elementId: ''
-        title: Item Title
+        title: Tableau
         subtitle: ''
         actions: []
         styles:
