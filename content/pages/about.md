@@ -87,6 +87,7 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
+    subtitle: hr
   - type: TextSection
     colors: colors-c
     variant: variant-a
