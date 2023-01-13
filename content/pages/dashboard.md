@@ -38,7 +38,7 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-a
     elementId: ''
-    title: PowerBI Dashboard
+    title: 'PowerBI '
     items:
       - type: FeaturedItem
         elementId: ''
