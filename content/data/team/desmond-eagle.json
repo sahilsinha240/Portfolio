@@ -1,7 +1,6 @@
 {
     "type": "Person",
     "image": {
-        "type": "ImageBlock",
-        "url": "/images/analitycs_giphy.gif"
+        "type": "ImageBlock"
     }
 }
