@@ -194,6 +194,8 @@ sections:
         styles:
           self:
             textAlign: left
+          title:
+            fontWeight: 500
       - type: FeaturedItem
         elementId: ''
         title: Internship
