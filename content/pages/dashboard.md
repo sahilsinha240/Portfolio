@@ -248,7 +248,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: DividerSection
-    colors: colors-d
+    colors: colors-a
     elementId: ''
     title: Divider
     styles:
