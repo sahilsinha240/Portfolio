@@ -254,7 +254,7 @@ sections:
         title: Education
       - type: FeaturedItem
         elementId: ''
-        title: Co Curriculam Activity
+        title: Co Curricular Activity
         subtitle: ''
         text: |+
           **French Language & Tourism**
