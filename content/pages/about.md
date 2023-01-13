@@ -168,7 +168,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: Resume
         altText: ''
         url: >-
           https://drive.google.com/file/d/1DNQlny9XpDNxlTcOBbEglimdV3c8_S6x/view?usp=share_link
