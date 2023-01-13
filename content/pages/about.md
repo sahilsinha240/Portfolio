@@ -133,6 +133,8 @@ sections:
         styles:
           self:
             textAlign: left
+          title:
+            fontWeight: 500
         title: Weakness
       - type: FeaturedItem
         elementId: ''
