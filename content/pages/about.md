@@ -128,10 +128,7 @@ sections:
       - type: FeaturedItem
         elementId: ''
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "*   Sometimes I hesitate to ask for help.\n\n*   I aways try to do things Perfectly which sometimes consumes\_a\_lot\_of\_time.\n\n### ****\n\n\n\n"
         actions: []
         styles:
           self:
