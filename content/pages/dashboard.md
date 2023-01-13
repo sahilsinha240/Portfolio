@@ -32,7 +32,7 @@ sections:
         fontWeight: 500
       subtitle:
         textAlign: center
-    subtitle: 'All files are available on '
+    subtitle: All files are available on Github
   - type: FeaturedItemsSection
     colors: colors-a
     elementId: ''
