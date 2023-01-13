@@ -101,7 +101,16 @@ sections:
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
-        actions: []
+        actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         styles:
           self:
             textAlign: left
