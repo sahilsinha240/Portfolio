@@ -235,6 +235,8 @@ sections:
         styles:
           self:
             textAlign: left
+          title:
+            fontWeight: 500
     actions: []
     columns: 1
     spacingX: 16
