@@ -230,6 +230,7 @@ sections:
         styles:
           self:
             textAlign: left
+        title: Education
     actions:
       - type: Button
         altText: ''
