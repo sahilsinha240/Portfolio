@@ -249,6 +249,8 @@ sections:
         styles:
           self:
             textAlign: left
+          title:
+            fontWeight: 500
         title: Education
       - type: FeaturedItem
         elementId: ''
