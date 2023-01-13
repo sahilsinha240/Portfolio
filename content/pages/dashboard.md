@@ -324,7 +324,7 @@ sections:
           - pr-4
         justifyContent: center
       title:
-        textAlign: center
+        textAlign: left
       subtitle:
         textAlign: center
         fontStyle: italic
