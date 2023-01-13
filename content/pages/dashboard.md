@@ -227,17 +227,6 @@ sections:
         styles:
           self:
             textAlign: left
-      - type: FeaturedItem
-        elementId: ''
-        title: Tableau
-        subtitle: ''
-        actions: []
-        styles:
-          self:
-            textAlign: left
-          title:
-            fontWeight: 500
-            textDecoration: underline
     actions: []
     columns: 1
     spacingX: 16
