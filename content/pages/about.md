@@ -141,6 +141,7 @@ sections:
         styles:
           self:
             textAlign: left
+        title: Weakness
     actions:
       - type: Button
         altText: ''
