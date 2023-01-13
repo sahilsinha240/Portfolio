@@ -92,7 +92,6 @@ sections:
     elementId: ''
     backgroundSize: inset
     title: About Me
-    subtitle: Fresh. Better. Faster.
     text: ''
     actions:
       - type: Button
