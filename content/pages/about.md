@@ -154,7 +154,7 @@ sections:
         altText: ''
         url: 'mailto:sahilsinha240@gmail.com'
         showIcon: true
-        icon: arrowLeftCircle
+        icon: arrowRight
         iconPosition: right
         style: secondary
         elementId: ''
