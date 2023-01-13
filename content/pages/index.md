@@ -277,6 +277,7 @@ sections:
             textAlign: left
           title:
             fontWeight: 500
+            textDecoration: underline
       - type: FeaturedItem
         title: Focused
         text: >-
