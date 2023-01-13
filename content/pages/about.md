@@ -190,8 +190,6 @@ sections:
           *   Hindi(Native)
 
           *   French(Beginner)
-
-          ###
         actions: []
         styles:
           self:
