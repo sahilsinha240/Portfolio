@@ -197,31 +197,26 @@ sections:
       HTML
       ```
 
-      #### **Tool Skills**
+      #### **Tools/Package**
 
-      *   Numpy
+      ```
+      Numpy
+      Pandas
+      Tableau
+      PowerBI
+      Matplotlip
+      Wordpress
+      ```
 
-      *   Pandas
+      #### **Soft Skills**
 
-      *   Tableau
-
-      *   PowerBI
-
-      *   Matplotlip
-
-      *   Wordpress
-
-      #### **Soft Skill**
-
-      *   Team Work
-
-      *   Adaptability
-
-      *   Communication
-
-      *   Critical Thinking
-
-      *   Problem Solving
+      ```
+      Team Work
+      Adaptability
+      Communication
+      Critical Thinking
+      Problem Solving
+      ```
 
     styles:
       self:
