@@ -32,6 +32,7 @@ sections:
         fontWeight: 500
       subtitle:
         textAlign: center
+        fontStyle: italic
     subtitle: All files are available on Github
   - type: FeaturedItemsSection
     colors: colors-a
