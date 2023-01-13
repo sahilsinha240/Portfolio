@@ -190,17 +190,8 @@ sections:
 
       ```
       SQL
-      ```
-
-      ```
       Python
-      ```
-
-      ```
       Analytics
-      ```
-
-      ```
       HTML
       ```
 
