@@ -295,10 +295,16 @@ sections:
             textDecoration: underline
       - type: FeaturedItem
         title: Co Curricular Activity
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |+
+          ###### **French Language & Tourism**
+
+          ```
+          IHM Gaya
+          July 2021-Sept 2021
+          ```
+
+
+
         actions:
           - type: Button
             label: Learn more
