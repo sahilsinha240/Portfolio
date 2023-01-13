@@ -252,7 +252,7 @@ sections:
         title: Education
       - type: FeaturedItem
         elementId: ''
-        title: Item Title
+        title: Co Curriculam Activity
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
