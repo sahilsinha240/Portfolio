@@ -251,9 +251,6 @@ sections:
 
       ```
       Paperpedia Pvt. Ltd
-      ```
-
-      ```
       Jan 2023-Present
       ```
 
@@ -263,13 +260,7 @@ sections:
 
       ```
       Veltech University
-      ```
-
-      ```
       2019-2023
-      ```
-
-      ```
       Grade:-8.06(Till 6th sem)
       ```
 
@@ -277,13 +268,7 @@ sections:
 
       ```
       Sri Chaitanya
-      ```
-
-      ```
       2017-2019
-      ```
-
-      ```
       Grade:-87.2%
       ```
 
@@ -291,13 +276,7 @@ sections:
 
       ```
       DAV Public School
-      ```
-
-      ```
       2005-2017
-      ```
-
-      ```
       Grade:-7.0
       ```
 
@@ -307,9 +286,6 @@ sections:
 
       ```
       IHM Gaya
-      ```
-
-      ```
       July 2021-Sept 2021
       ```
 
