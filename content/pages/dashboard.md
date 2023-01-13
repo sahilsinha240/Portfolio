@@ -241,7 +241,6 @@ sections:
         justifyContent: center
       title:
         textAlign: center
-        textDecoration: underline
       subtitle:
         textAlign: center
         fontStyle: italic
