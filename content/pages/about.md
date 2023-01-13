@@ -158,6 +158,7 @@ sections:
         justifyContent: center
       title:
         textAlign: center
+        textDecoration: underline
       subtitle:
         textAlign: left
       actions:
