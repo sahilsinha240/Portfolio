@@ -32,7 +32,7 @@ sections:
         fontWeight: 500
       subtitle:
         textAlign: center
-    subtitle: All files are ava
+    subtitle: All files are available
   - type: FeaturedItemsSection
     colors: colors-a
     elementId: ''
