@@ -109,10 +109,7 @@ sections:
             fontWeight: 500
       - type: FeaturedItem
         title: Why Should You Hire Me?
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: "As I have just started my career in data science, I don’t have many practical achievements to talk about. This gives me the liberty to explore my potential by giving my best to this organization. I am confident that I can make significant contributions to the team and help achieve the company’s goals.\n\nApart from this I have always been dedicated to my academics and data science projects, and I always complete them well in time. In college, I was appreciated for my dedication and hard work. I am confident that I can bring the same level of dedication and commitment to this organization. I am also willing to learn new things and explore my potential. I believe that I have the skills and abilities to be a successful data scientist.\nI am excited to start my career in data science, and I am confident that I will be a valuable asset to this organization. I am looking forward to working with you and contributing to the success of the company. Thank you for your time and\_consideration.\n"
         actions:
           - type: Button
             label: Learn more
