@@ -191,7 +191,7 @@ sections:
 
           *   French(Beginner)
 
-          ####
+          ###
         actions: []
         styles:
           self:
