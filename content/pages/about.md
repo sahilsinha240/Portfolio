@@ -128,7 +128,7 @@ sections:
       - type: FeaturedItem
         elementId: ''
         subtitle: ''
-        text: "*   Sometimes I hesitate to ask for help.\n\n*   I aways try to do things Perfectly which sometimes consumes\_a\_lot\_of\_time.\n\n### ****\n\n\n\n"
+        text: "*   Sometimes I hesitate to ask for help.\n\n*   I aways try to do things Perfectly which sometimes consumes\_a\_lot\_of\_time.\n\n"
         actions: []
         styles:
           self:
