@@ -10,10 +10,7 @@ sections:
     colors: colors-a
     elementId: ''
     title: Dashboard
-    images:
-      - type: ImageBlock
-        url: /images/bg.gif
-        caption: Image one caption
+    images: []
     spacing: 16
     columns: 1
     aspectRatio: '16:9'
