@@ -188,13 +188,21 @@ sections:
     text: |+
       #### **Technical Skills**
 
-      *   SQL
+      ```
+      SQL
+      ```
 
-      *   Python
+      ```
+      Python
+      ```
 
-      *   Analytics
+      ```
+      Analytics
+      ```
 
-      *   HTML
+      ```
+      HTML
+      ```
 
       #### **Tool Skills**
 
