@@ -253,7 +253,7 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-a
     elementId: ''
-    title: Tableau Dashboard
+    title: Tableau
     items:
       - type: FeaturedItem
         title: Ecommerce Sale Dashboard
