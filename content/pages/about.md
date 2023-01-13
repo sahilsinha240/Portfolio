@@ -142,19 +142,19 @@ sections:
             textAlign: left
     actions:
       - type: Button
+        altText: ''
+        url: 'mailto:sahilsinha240@gmail.com'
+        showIcon: true
+        icon: mail
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Button
         label: Projects
         altText: ''
         url: /blog
         showIcon: false
         icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-      - type: Button
-        altText: ''
-        url: 'mailto:sahilsinha240@gmail.com'
-        showIcon: true
-        icon: mail
         iconPosition: right
         style: primary
         elementId: ''
