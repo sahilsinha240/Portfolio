@@ -27,9 +27,9 @@ sections:
           - type: Button
             showIcon: false
             icon: arrowRight
-            url: 'https://clipchamp.com/watch/0TM4tiscDCj'
             style: primary
             label: Video Introduction
+            url: 'https://clipchamp.com/watch/0TM4tiscDCj'
         styles:
           self:
             textAlign: left
