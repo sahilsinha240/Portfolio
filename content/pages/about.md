@@ -29,6 +29,7 @@ sections:
             icon: arrowRight
             style: primary
             label: Video Introduction
+            url: 'https://clipchamp.com/watch/0TM4tiscDCj'
         styles:
           self:
             textAlign: left
