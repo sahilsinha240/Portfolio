@@ -43,13 +43,7 @@ sections:
       - type: FeaturedItem
         elementId: ''
         subtitle: ''
-        text: >+
-          In this Powerbi dashboard I analyzes the sales details of a US
-          superstore. Where Scatter plots, maps, tables, KPIs, and pie charts
-          are used here to analyze sales in terms of profit.
-
-
-
+        text: "Using Powerbi to analyze the sales details of a USA superstore, I was able to draw meaningful insights. Through the use of scatter plots, maps, tables, KPIs and pie charts, I was able to analyze the sales in terms of profit. This allowed me to provide valuable insights for the business and to plan for future strategies. By leveraging Powerbi and applying it to analyze sales, I was able to drive better\_decisions.\n"
         actions:
           - type: Button
             label: Github
@@ -76,10 +70,13 @@ sections:
         title: Superstore Analysis Dashboard
       - type: FeaturedItem
         title: HR Analysis Dashboard
-        text: >+
-          In this Powerbi dashboard I analyzes the company's HR details and also
-          learns about Powerbi with the help of YouTube.
-
+        text: >
+          I used Powerbi dashboard to analyze the company's HR details and also
+          to learn more about its features. I found YouTube to be a great
+          resource to understand the workings of Powerbi and successfully
+          implemented it for the HR Analysis. This analysis enabled us to gain
+          valuable insights from the data and make informed decisions that have
+          helped in improving our business operations.
         actions:
           - type: Button
             label: Github
@@ -102,10 +99,14 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Chicago Crime Dashboard
-        text: >+
-          In this Powerbi dashboard, I've visualized Chicago Crime report from
-          2012 to 2017 according to the kaggle datasets.
-
+        text: >
+          By using Powerbi, I conducted an in-depth analysis of Chicago Crime
+          from 2012 to 2017 based on the Kaggle datasets. This dashboard
+          provides a comprehensive overview of the crime rate in Chicago over
+          the past 5 years. Furthermore, this dashboard also allows for detailed
+          comparisons between the various types of crimes and how they have
+          evolved over time. The data visualization provides invaluable insights
+          that can be used to identify key areas where further action is needed.
         actions:
           - type: Button
             label: Github
@@ -128,10 +129,13 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Enrollee Detail Dashboard
-        text: >+
-          In this Powerbi dashboard, I completed the assignment that I received
-          from PaperPedia and visualized enrollee registration dataset.
-
+        text: >
+          With the Powerbi dashboard, I was able to successfully complete the
+          assignment from PaperPedia. The dataset I worked with contained
+          enrollee registration information, which I was able to organize and
+          visualize in an easy to understand manner. This process of sorting and
+          displaying the data made it simpler for viewers to get a better
+          understanding of the results.
         actions:
           - type: Button
             label: Github
@@ -156,10 +160,16 @@ sections:
         elementId: ''
         title: Walmart Dashboard
         subtitle: ''
-        text: >+
-          In this assignment, I've visualized a detailed Walmart dashboard using
-          the Jobaaj dataset.
-
+        text: >
+          This assignment was a great learning opportunity as I used Powerbi to
+          visualize the Jobaaj dataset and create a detailed Walmart dashboard.
+          It was quite challenging yet rewarding to be able to see all the
+          insights and patterns that the data revealed when visualized. I also
+          got an opportunity to learn about Powerbi better in my live classes,
+          which increased my confidence in using this software for future
+          projects. This assignment has definitely helped me gain a better
+          understanding of data visualization and how it is important for making
+          business decisions.
         actions:
           - type: Button
             altText: ''
@@ -187,10 +197,14 @@ sections:
         elementId: ''
         title: Shiba Inu Dashboard
         subtitle: ''
-        text: >+
-          In this Powerbi dashboard, I've visualized Shiba Inu prices for August
-          2022 from the Kaggle dataset.
-
+        text: >
+          This Powerbi dashboard project was a great example of data
+          visualization. I have formulated predictions on the August 2022 prices
+          of Shiba INU coin, which is a Crypto currency. It was based on the
+          Kaggle dataset, and I believe this would help investors in gauging the
+          price movements of the Crypto currency. This project will help
+          investors to strategize their investments in the Crypto currency and
+          plan for a profitable future.
         actions:
           - type: Button
             label: Screenshot
@@ -209,10 +223,14 @@ sections:
         elementId: ''
         title: Gaya Report Dashboard
         subtitle: ''
-        text: >+
-          In this assignment, I've used a government dataset to visualize a
-          vehicle detail dashboard.
-
+        text: >
+          I have used Powerbi to create a vehicle detail dashboard using a
+          government dataset. This dashboard allows users to easily view and
+          analyze the detailed information of vehicles such as make, model, year
+          and other specifications. Furthermore, this dashboard provides an
+          overview of the vehicle trends in the market with insights into their
+          year-on-year performance, giving users the knowledge they need to make
+          informed decisions.
         actions:
           - type: Button
             label: Screenshot
@@ -257,10 +275,14 @@ sections:
     items:
       - type: FeaturedItem
         title: Ecommerce Sale Dashboard
-        text: >+
-          In this Tableau dashboard I analyzes the Ecommerce Sales details and
-          also learns about Tableau with the help of YouTube.
-
+        text: >
+          With the help of Tableau dashboard, I was able to analyze and gain
+          insights into the Ecommerce Sales details. It was an invaluable
+          learning experience which was further aided by tutorials available on
+          YouTube. The ability to learn and use Tableau has enabled me to create
+          meaningful dashboards and drive decisions backed by data. Moreover,
+          the knowledge acquired through Youtube has further helped me
+          understand Tableau and its capabilities.
         actions:
           - type: Button
             showIcon: false
@@ -284,10 +306,13 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Product Sale Dashboard
-        text: >+
-          In this Tableau Dashboard, I learned the Tableau and visualized
-          product sales by creating this Tableau dashboard.
-
+        text: >
+          The Tableau Dashboard was a great learning experience for me. I got to
+          understand the basics of Tableau and its visualizations, and also got
+          to apply it practically by creating this Tableau dashboard. It was a
+          real eye-opener to visualize the sales data and understand the pattern
+          of the sales over time. Overall, it was a great learning experience
+          and I am now confident in my proficiency in using Tableau.
         actions:
           - type: Button
             label: Github
