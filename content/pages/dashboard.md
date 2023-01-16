@@ -197,10 +197,14 @@ sections:
         elementId: ''
         title: Shiba Inu Dashboard
         subtitle: ''
-        text: >+
-          In this Powerbi dashboard, I've visualized Shiba Inu prices for August
-          2022 from the Kaggle dataset.
-
+        text: >
+          This Powerbi dashboard project was a great example of data
+          visualization. I have formulated predictions on the August 2022 prices
+          of Shiba INU coin, which is a Crypto currency. It was based on the
+          Kaggle dataset, and I believe this would help investors in gauging the
+          price movements of the Crypto currency. This project will help
+          investors to strategize their investments in the Crypto currency and
+          plan for a profitable future.
         actions:
           - type: Button
             label: Screenshot
