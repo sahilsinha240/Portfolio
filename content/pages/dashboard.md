@@ -129,10 +129,13 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Enrollee Detail Dashboard
-        text: >+
-          In this Powerbi dashboard, I completed the assignment that I received
-          from PaperPedia and visualized enrollee registration dataset.
-
+        text: >
+          With the Powerbi dashboard, I was able to successfully complete the
+          assignment from PaperPedia. The dataset I worked with contained
+          enrollee registration information, which I was able to organize and
+          visualize in an easy to understand manner. This process of sorting and
+          displaying the data made it simpler for viewers to get a better
+          understanding of the results.
         actions:
           - type: Button
             label: Github
