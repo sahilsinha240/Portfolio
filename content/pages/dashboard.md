@@ -223,10 +223,14 @@ sections:
         elementId: ''
         title: Gaya Report Dashboard
         subtitle: ''
-        text: >+
-          In this assignment, I've used a government dataset to visualize a
-          vehicle detail dashboard.
-
+        text: >
+          I have used Powerbi to create a vehicle detail dashboard using a
+          government dataset. This dashboard allows users to easily view and
+          analyze the detailed information of vehicles such as make, model, year
+          and other specifications. Furthermore, this dashboard provides an
+          overview of the vehicle trends in the market with insights into their
+          year-on-year performance, giving users the knowledge they need to make
+          informed decisions.
         actions:
           - type: Button
             label: Screenshot
