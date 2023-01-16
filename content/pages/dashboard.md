@@ -302,10 +302,13 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Product Sale Dashboard
-        text: >+
-          In this Tableau Dashboard, I learned the Tableau and visualized
-          product sales by creating this Tableau dashboard.
-
+        text: >
+          The Tableau Dashboard was a great learning experience for me. I got to
+          understand the basics of Tableau and its visualizations, and also got
+          to apply it practically by creating this Tableau dashboard. It was a
+          real eye-opener to visualize the sales data and understand the pattern
+          of the sales over time. Overall, it was a great learning experience
+          and I am now confident in my proficiency in using Tableau.
         actions:
           - type: Button
             label: Github
