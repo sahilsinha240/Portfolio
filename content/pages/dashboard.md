@@ -271,10 +271,14 @@ sections:
     items:
       - type: FeaturedItem
         title: Ecommerce Sale Dashboard
-        text: >+
-          In this Tableau dashboard I analyzes the Ecommerce Sales details and
-          also learns about Tableau with the help of YouTube.
-
+        text: >
+          With the help of Tableau dashboard, I was able to analyze and gain
+          insights into the Ecommerce Sales details. It was an invaluable
+          learning experience which was further aided by tutorials available on
+          YouTube. The ability to learn and use Tableau has enabled me to create
+          meaningful dashboards and drive decisions backed by data. Moreover,
+          the knowledge acquired through Youtube has further helped me
+          understand Tableau and its capabilities.
         actions:
           - type: Button
             showIcon: false
