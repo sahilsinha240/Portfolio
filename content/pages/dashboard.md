@@ -99,10 +99,14 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Chicago Crime Dashboard
-        text: >+
-          In this Powerbi dashboard, I've visualized Chicago Crime report from
-          2012 to 2017 according to the kaggle datasets.
-
+        text: >
+          By using Powerbi, I conducted an in-depth analysis of Chicago Crime
+          from 2012 to 2017 based on the Kaggle datasets. This dashboard
+          provides a comprehensive overview of the crime rate in Chicago over
+          the past 5 years. Furthermore, this dashboard also allows for detailed
+          comparisons between the various types of crimes and how they have
+          evolved over time. The data visualization provides invaluable insights
+          that can be used to identify key areas where further action is needed.
         actions:
           - type: Button
             label: Github
