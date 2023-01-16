@@ -43,13 +43,7 @@ sections:
       - type: FeaturedItem
         elementId: ''
         subtitle: ''
-        text: >+
-          In this Powerbi dashboard I analyzes the sales details of a US
-          superstore. Where Scatter plots, maps, tables, KPIs, and pie charts
-          are used here to analyze sales in terms of profit.
-
-
-
+        text: "Using Powerbi to analyze the sales details of a US superstore, I was able to draw meaningful insights. Through the use of scatter plots, maps, tables, KPIs and pie charts, I was able to analyze the sales in terms of profit. This allowed me to provide valuable insights for the business and to plan for future strategies. By leveraging Powerbi and applying it to analyze sales, I was able to drive better\_decisions.\n"
         actions:
           - type: Button
             label: Github
