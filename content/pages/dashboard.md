@@ -160,10 +160,16 @@ sections:
         elementId: ''
         title: Walmart Dashboard
         subtitle: ''
-        text: >+
-          In this assignment, I've visualized a detailed Walmart dashboard using
-          the Jobaaj dataset.
-
+        text: >
+          This assignment was a great learning opportunity as I used Powerbi to
+          visualize the Jobaaj dataset and create a detailed Walmart dashboard.
+          It was quite challenging yet rewarding to be able to see all the
+          insights and patterns that the data revealed when visualized. I also
+          got an opportunity to learn about Powerbi better in my live classes,
+          which increased my confidence in using this software for future
+          projects. This assignment has definitely helped me gain a better
+          understanding of data visualization and how it is important for making
+          business decisions.
         actions:
           - type: Button
             altText: ''
