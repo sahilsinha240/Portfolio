@@ -277,10 +277,15 @@ sections:
         elementId: ''
         title: Item Title
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          The tableau dashboard I have created allows for effective bank data
+          analysis. All customer detail can be thoroughly analyzed, allowing for
+          insight into customer behaviour, preferences and other trends that
+          could prove beneficial to the bank. This dashboard is a comprehensive
+          tool which can help the bank to further understand their customers and
+          make potential improvements to their services. Through this dashboard,
+          the bank can build more meaningful relationships with their customers,
+          creating a positive and lasting experience.
         featuredImage:
           type: ImageBlock
           url: >-
