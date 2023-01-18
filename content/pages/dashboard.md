@@ -297,7 +297,7 @@ sections:
             style: primary
             elementId: ''
           - type: Button
-            label: Learn more
+            label: Screenshot
             altText: ''
             url: >-
               https://drive.google.com/file/d/1z1S8vBFOxr66MQsWuJHzLQEvJphe5FYQ/view?usp=share_link
