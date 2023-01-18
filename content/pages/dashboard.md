@@ -275,7 +275,7 @@ sections:
     items:
       - type: FeaturedItem
         elementId: ''
-        title: Item Title
+        title: Bank Data Analysis
         subtitle: ''
         text: >
           The tableau dashboard I have created allows for effective bank data
