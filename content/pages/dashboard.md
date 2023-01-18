@@ -286,11 +286,6 @@ sections:
           make potential improvements to their services. Through this dashboard,
           the bank can build more meaningful relationships with their customers,
           creating a positive and lasting experience.
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
-          altText: Item image
         actions: []
         styles:
           self:
