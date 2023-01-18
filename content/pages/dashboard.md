@@ -296,6 +296,16 @@ sections:
             iconPosition: right
             style: primary
             elementId: ''
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: >-
+              https://drive.google.com/file/d/1z1S8vBFOxr66MQsWuJHzLQEvJphe5FYQ/view?usp=share_link
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         styles:
           self:
             textAlign: left
