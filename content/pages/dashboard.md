@@ -286,7 +286,16 @@ sections:
           make potential improvements to their services. Through this dashboard,
           the bank can build more meaningful relationships with their customers,
           creating a positive and lasting experience.
-        actions: []
+        actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: 'https://github.com/sahilsinha240/Bank-Customer-Analysis'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         styles:
           self:
             textAlign: left
