@@ -288,7 +288,7 @@ sections:
           creating a positive and lasting experience.
         actions:
           - type: Button
-            label: Learn more
+            label: Github
             altText: ''
             url: 'https://github.com/sahilsinha240/Bank-Customer-Analysis'
             showIcon: false
