@@ -244,6 +244,15 @@ sections:
           plan for a profitable future.
         actions:
           - type: Button
+            label: Learn more
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+          - type: Button
             label: Screenshot
             altText: ''
             url: >-
