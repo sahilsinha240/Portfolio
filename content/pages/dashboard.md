@@ -42,6 +42,43 @@ sections:
     items:
       - type: FeaturedItem
         elementId: ''
+        title: Space Mission Analysis
+        subtitle: ''
+        text: >+
+          In this powerbi dashboard I have created, a total space mission is
+          considered by different space companies from 1960 to 2020, including
+          the number of successful launches, the cost of each mission, and the
+          types of spacecraft used. Additionally, it also includes information
+          on the countries and private companies that have contributed to the
+          space industry during this time period. This allows for a
+          comprehensive analysis of the evolution of space exploration over the
+          past 60 years.
+
+        actions:
+          - type: Button
+            label: Github
+            altText: ''
+            url: 'https://github.com/sahilsinha240/Space-Mission-Analysis'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+          - type: Button
+            label: Screenshot
+            altText: ''
+            url: >-
+              https://drive.google.com/file/d/160DybnnB3pQ7KAExS3IZNyDt7fVx9cPV/view?usp=share_link
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        elementId: ''
         subtitle: ''
         text: "Using Powerbi to analyze the sales details of a USA superstore, I was able to draw meaningful insights. Through the use of scatter plots, maps, tables, KPIs and pie charts, I was able to analyze the sales in terms of profit. This allowed me to provide valuable insights for the business and to plan for future strategies. By leveraging Powerbi and applying it to analyze sales, I was able to drive better\_decisions.\n"
         actions:
