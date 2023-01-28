@@ -58,7 +58,7 @@ sections:
           - type: Button
             label: Github
             altText: ''
-            url: /
+            url: 'https://github.com/sahilsinha240/Space-Mission-Analysis'
             showIcon: false
             icon: arrowRight
             iconPosition: right
