@@ -42,6 +42,23 @@ sections:
     items:
       - type: FeaturedItem
         elementId: ''
+        title: Item Title
+        subtitle: ''
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        featuredImage:
+          type: ImageBlock
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-image.png
+          altText: Item image
+        actions: []
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        elementId: ''
         subtitle: ''
         text: "Using Powerbi to analyze the sales details of a USA superstore, I was able to draw meaningful insights. Through the use of scatter plots, maps, tables, KPIs and pie charts, I was able to analyze the sales in terms of profit. This allowed me to provide valuable insights for the business and to plan for future strategies. By leveraging Powerbi and applying it to analyze sales, I was able to drive better\_decisions.\n"
         actions:
