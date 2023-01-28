@@ -42,7 +42,7 @@ sections:
     items:
       - type: FeaturedItem
         elementId: ''
-        title: Item Title
+        title: Space Mission Analysis
         subtitle: ''
         text: >+
           In this powerbi dashboard I have created, a total space mission is
