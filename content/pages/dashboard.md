@@ -56,7 +56,7 @@ sections:
 
         actions:
           - type: Button
-            label: Learn more
+            label: Github
             altText: ''
             url: /
             showIcon: false
