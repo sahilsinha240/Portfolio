@@ -68,7 +68,7 @@ sections:
             label: Screenshot
             altText: ''
             url: >-
-              https://app.powerbi.com/links/E1ZiFWrS9V?ctid=bd141979-b7f0-4ed6-947d-a011b8c0f60e&pbi_source=linkShare
+              https://drive.google.com/file/d/160DybnnB3pQ7KAExS3IZNyDt7fVx9cPV/view?usp=share_link
             showIcon: false
             icon: arrowRight
             iconPosition: right
