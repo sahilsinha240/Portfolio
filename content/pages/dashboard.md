@@ -65,7 +65,7 @@ sections:
             style: secondary
             elementId: ''
           - type: Button
-            label: Learn more
+            label: Screenshot
             altText: ''
             url: /
             showIcon: false
