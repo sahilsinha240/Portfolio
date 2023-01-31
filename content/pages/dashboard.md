@@ -57,7 +57,16 @@ sections:
           provides valuable insights for app developers, marketers, and
           investors to make informed decisions.
 
-        actions: []
+        actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: 'https://github.com/sahilsinha240/Play-Store-Apps-Analysis'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         styles:
           self:
             textAlign: left
