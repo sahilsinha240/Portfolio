@@ -42,7 +42,7 @@ sections:
     items:
       - type: FeaturedItem
         elementId: ''
-        title: Play Sore Apps Analysis
+        title: Play Store Apps Analysis
         subtitle: ''
         text: >+
           In this powerbi dashboard I have created, a playstore apps analysis is
