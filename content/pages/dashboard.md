@@ -44,10 +44,19 @@ sections:
         elementId: ''
         title: Item Title
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          In this powerbi dashboard I have created, a playstore apps analysis is
+          considered by different app, category, price, and version. The
+          dashboard showcases key metrics such as the number of downloads,
+          ratings, and reviews for each app, as well as the trend in app
+          popularity over time. It also includes a breakdown of apps by
+          category, such as games, productivity, and lifestyle, to understand
+          the distribution of app offerings in the playstore. Additionally, it
+          also allows for a comparison of app pricing and version releases,
+          helping to identify patterns and trends in the playstore market. This
+          provides valuable insights for app developers, marketers, and
+          investors to make informed decisions.
+
         actions: []
         styles:
           self:
