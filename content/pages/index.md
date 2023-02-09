@@ -202,6 +202,7 @@ sections:
       ```
       Numpy
       Pandas
+      Excel
       Tableau
       PowerBI
       Matplotlip
