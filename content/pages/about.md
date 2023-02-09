@@ -81,12 +81,13 @@ sections:
           ##### **Tools/Package**
 
           ```
-          Numpy
+          NumPy
           Pandas
+          Excel
           PowerBI
           Tableau
           Matplotlip
-          Wordpress
+          WordPress
           ```
 
           ##### **Soft Skill**
