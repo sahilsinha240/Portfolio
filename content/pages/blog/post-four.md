@@ -1,7 +1,7 @@
 ---
 title: Sentiment Analysis
 layout: PostLayout
-date: '2023-02-16'
+date: '2023-05-03'
 colors: colors-d
 excerpt: >-
   I evaluate the customer sentiment analysis using the Amazon Food dataset in a
