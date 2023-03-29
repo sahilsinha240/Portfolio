@@ -7,7 +7,7 @@ featuredImage:
   url: /images/air-pollution.gif
 media:
   type: ImageBlock
-  url: /images/cricket.gif
+  url: /images/air-pollution.gif
 bottomSections:
   - elementId: ''
     variant: variant-d
