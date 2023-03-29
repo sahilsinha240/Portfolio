@@ -81,7 +81,7 @@ We will clean and preprocess the collected data to prepare it for analysis.
 
 We will perform exploratory data analysis to gain insights into the trends and patterns of air pollution in these cities.
 
-##### Model selection and training 
+##### Model selection and training
 
 We will select appropriate machine learning algorithms and regression models to train on our data.
 
@@ -89,11 +89,11 @@ We will select appropriate machine learning algorithms and regression models to 
 
 We will evaluate the performance of our models using various metrics such as mean absolute error and root mean squared error.
 
-##### Deployment 
+##### Deployment
 
 We will deploy our trained models to predict air quality index in real-time for major cities in India.
 
-##### Conclusion
+#### Conclusion
 
 The project has the potential to contribute to the development of more effective policies and initiatives to improve air quality and protect the health of the population in India. By leveraging machine learning algorithms and regression models, we hope to provide valuable insights into the key drivers of air pollution and develop effective strategies to mitigate pollution levels.
 
