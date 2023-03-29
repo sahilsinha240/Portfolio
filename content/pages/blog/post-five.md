@@ -4,7 +4,7 @@ layout: PostLayout
 excerpt: Currently Working on it
 featuredImage:
   type: ImageBlock
-  url: /images/cricket.gif
+  url: /images/air-pollution.gif
 media:
   type: ImageBlock
   url: /images/cricket.gif
