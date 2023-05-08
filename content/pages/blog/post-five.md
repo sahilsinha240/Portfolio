@@ -59,6 +59,8 @@ socialImage: /images/desmond-eagle.png
 addTitleSuffix: true
 date: '2023-04-30'
 ---
+#### Source Code:- [Click Here](https://github.com/sahilsinha240/Air-Pollution-Measurement-and-Analysis)
+
 #### Introduction
 
 Air pollution is a growing problem in India, with many of its cities experiencing high levels of pollutants in the atmosphere. This poses significant health risks to the population, ranging from respiratory problems to premature death. To address this critical issue, the Indian government has implemented air quality standards and indexes to monitor and regulate the levels of pollutants in the air.
@@ -96,6 +98,3 @@ We will deploy our trained models to predict air quality index in real-time for 
 #### Conclusion
 
 The project has the potential to contribute to the development of more effective policies and initiatives to improve air quality and protect the health of the population in India. By leveraging machine learning algorithms and regression models, we hope to provide valuable insights into the key drivers of air pollution and develop effective strategies to mitigate pollution levels.
-
-# Currently Working on project!!!!!!!!!!
-
