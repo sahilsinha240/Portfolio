@@ -97,5 +97,3 @@ We will deploy our trained models to predict air quality index in real-time for 
 
 The project has the potential to contribute to the development of more effective policies and initiatives to improve air quality and protect the health of the population in India. By leveraging machine learning algorithms and regression models, we hope to provide valuable insights into the key drivers of air pollution and develop effective strategies to mitigate pollution levels.
 
-# Currently Working on project!!!!!!!!!!
-
