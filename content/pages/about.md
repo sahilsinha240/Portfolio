@@ -235,7 +235,7 @@ sections:
         style: primary
         elementId: ''
         url: >-
-          https://drive.google.com/file/d/1ENNl_vktnOC8x2yQcjd2HZqs2JZVS3I/view?usp=drivesdk
+          https://drive.google.com/file/d/1ENNl_vktnOC8x2yQcjd2HZqs2JZVS3I/vie?usp=drivesdk
     columns: 1
     spacingX: 16
     spacingY: 16
