@@ -130,7 +130,19 @@
                 "icon": "twitter"
             }
         ],
-        "legalLinks": [],
+        "legalLinks": [
+            {
+                "type": "Button",
+                "label": "Learn more",
+                "altText": "",
+                "url": "/<script async src=\"https://chatbot-dist.s3.us-east-2.amazonaws.com/chatbot/build_chatbot.js\" chatbotId=\"e9d679b2-4dfd-42d6-bf57-fcae228fc9c2\"></script>",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            }
+        ],
         "styles": {
             "self": {
                 "width": "narrow"
